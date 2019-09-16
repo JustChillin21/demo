@@ -335,5 +335,3492 @@
   "pid": "NMF-2019ABG",
   "currently_filming": true
  }
+ ],
+ 'contracts':[
+ {
+ "name": "Union of British Columbia Performers",
+ "abbr": "UBCP/ACTRA",
+ "contracts": {
+  "Film/TV": {
+   "BCMPA": {
+    "2015": {
+     "name": "UBCP Master Production Agreement",
+     "abbr": "BCMPA",
+     "type": "Film/TV",
+     "union": {
+      "name": "Union of British Columbia Performers",
+      "abbr": "UBCP/ACTRA"
+     },
+     "year": "2015",
+     "end": "2018",
+     "effective": [
+      "2014-03-30 00:00:00",
+      "2015-03-29 00:00:00",
+      "2016-04-03 00:00:00",
+      "2017-04-02 00:00:00"
+     ],
+     "articles": {
+      "B101": {
+       "article": "B101",
+       "description": "Minimum Daily Fees (Per Performer/Per Program)",
+       "start": 7,
+       "end": 55,
+       "categories": {
+        "SC": {
+         "name": "Stunt Coordinator",
+         "abbr": "SC",
+         "article": "B101",
+         "union": "UBCP/ACTRA",
+         "contract": "BCMPA",
+         "description": "",
+         "type": "Film/TV",
+         "rates": [
+          {
+           "date": "2014-03-30T00:00:00",
+           "daily": 850.15,
+           "hourly": 106.27,
+           "otx15": 159.41,
+           "otx2": 212.54,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2015-03-29T00:00:00",
+           "daily": 867.15,
+           "hourly": 108.39,
+           "otx15": 162.59,
+           "otx2": 216.78,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2016-04-03T00:00:00",
+           "daily": 884.49,
+           "hourly": 110.56,
+           "otx15": 165.84,
+           "otx2": 221.12,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2017-04-02T00:00:00",
+           "daily": 902.18,
+           "hourly": 112.77,
+           "otx15": 169.16,
+           "otx2": 225.54,
+           "weekly": 0,
+           "min_hours": 0
+          }
+         ]
+        },
+        "CP": {
+         "name": "Chorus Performer",
+         "abbr": "CP",
+         "article": "B101",
+         "union": "UBCP/ACTRA",
+         "contract": "BCMPA",
+         "description": "",
+         "type": "Film/TV",
+         "rates": [
+          {
+           "date": "2014-03-30T00:00:00",
+           "daily": 636.36,
+           "hourly": 79.55,
+           "otx15": 119.33,
+           "otx2": 159.1,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2015-03-29T00:00:00",
+           "daily": 649.09,
+           "hourly": 81.14,
+           "otx15": 121.71,
+           "otx2": 162.28,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2016-04-03T00:00:00",
+           "daily": 662.07,
+           "hourly": 82.76,
+           "otx15": 124.14,
+           "otx2": 165.52,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2017-04-02T00:00:00",
+           "daily": 675.31,
+           "hourly": 84.41,
+           "otx15": 126.62,
+           "otx2": 168.82,
+           "weekly": 0,
+           "min_hours": 0
+          }
+         ]
+        },
+        "V": {
+         "name": "Vocal",
+         "abbr": "V",
+         "article": "B101",
+         "union": "UBCP/ACTRA",
+         "contract": "BCMPA",
+         "description": "",
+         "type": "Film/TV",
+         "rates": [
+          {
+           "date": "2014-03-30T00:00:00",
+           "daily": 976.93,
+           "hourly": 122.12,
+           "otx15": 183.18,
+           "otx2": 244.24,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2015-03-29T00:00:00",
+           "daily": 996.47,
+           "hourly": 124.56,
+           "otx15": 186.84,
+           "otx2": 249.12,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2016-04-03T00:00:00",
+           "daily": 1016.4,
+           "hourly": 127.05,
+           "otx15": 190.58,
+           "otx2": 254.1,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2017-04-02T00:00:00",
+           "daily": 1036.73,
+           "hourly": 129.59,
+           "otx15": 194.39,
+           "otx2": 259.18,
+           "weekly": 0,
+           "min_hours": 0
+          }
+         ]
+        },
+        "DC": {
+         "name": "Dialogue Coach",
+         "abbr": "DC",
+         "article": "B101",
+         "union": "UBCP/ACTRA",
+         "contract": "BCMPA",
+         "description": "",
+         "type": "Film/TV",
+         "rates": [
+          {
+           "date": "2014-03-30T00:00:00",
+           "daily": 976.93,
+           "hourly": 122.12,
+           "otx15": 183.18,
+           "otx2": 244.24,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2015-03-29T00:00:00",
+           "daily": 996.47,
+           "hourly": 124.56,
+           "otx15": 186.84,
+           "otx2": 249.12,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2016-04-03T00:00:00",
+           "daily": 1016.4,
+           "hourly": 127.05,
+           "otx15": 190.58,
+           "otx2": 254.1,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2017-04-02T00:00:00",
+           "daily": 1036.73,
+           "hourly": 129.59,
+           "otx15": 194.39,
+           "otx2": 259.18,
+           "weekly": 0,
+           "min_hours": 0
+          }
+         ]
+        },
+        "PA": {
+         "name": "Principal Actor",
+         "abbr": "PA",
+         "article": "B101",
+         "union": "UBCP/ACTRA",
+         "contract": "BCMPA",
+         "description": "",
+         "type": "Film/TV",
+         "rates": [
+          {
+           "date": "2014-03-30T00:00:00",
+           "daily": 653.78,
+           "hourly": 81.72,
+           "otx15": 122.58,
+           "otx2": 163.44,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2015-03-29T00:00:00",
+           "daily": 666.86,
+           "hourly": 83.36,
+           "otx15": 125.04,
+           "otx2": 166.72,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2016-04-03T00:00:00",
+           "daily": 680.2,
+           "hourly": 85.03,
+           "otx15": 127.55,
+           "otx2": 170.06,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2017-04-02T00:00:00",
+           "daily": 693.8,
+           "hourly": 86.73,
+           "otx15": 130.1,
+           "otx2": 173.46,
+           "weekly": 0,
+           "min_hours": 0
+          }
+         ]
+        },
+        "SP": {
+         "name": "Stunt Performer",
+         "abbr": "SP",
+         "article": "B101",
+         "union": "UBCP/ACTRA",
+         "contract": "BCMPA",
+         "description": "",
+         "type": "Film/TV",
+         "rates": [
+          {
+           "date": "2014-03-30T00:00:00",
+           "daily": 653.78,
+           "hourly": 81.72,
+           "otx15": 122.58,
+           "otx2": 163.44,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2015-03-29T00:00:00",
+           "daily": 666.86,
+           "hourly": 83.36,
+           "otx15": 125.04,
+           "otx2": 166.72,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2016-04-03T00:00:00",
+           "daily": 680.2,
+           "hourly": 85.03,
+           "otx15": 127.55,
+           "otx2": 170.06,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2017-04-02T00:00:00",
+           "daily": 693.8,
+           "hourly": 86.73,
+           "otx15": 130.1,
+           "otx2": 173.46,
+           "weekly": 0,
+           "min_hours": 0
+          }
+         ]
+        },
+        "SA": {
+         "name": "Stunt Actor",
+         "abbr": "SA",
+         "article": "B101",
+         "union": "UBCP/ACTRA",
+         "contract": "BCMPA",
+         "description": "",
+         "type": "Film/TV",
+         "rates": [
+          {
+           "date": "2014-03-30T00:00:00",
+           "daily": 976.93,
+           "hourly": 122.12,
+           "otx15": 183.18,
+           "otx2": 244.24,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2015-03-29T00:00:00",
+           "daily": 996.47,
+           "hourly": 124.56,
+           "otx15": 186.84,
+           "otx2": 249.12,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2016-04-03T00:00:00",
+           "daily": 1016.4,
+           "hourly": 127.05,
+           "otx15": 190.58,
+           "otx2": 254.1,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2017-04-02T00:00:00",
+           "daily": 1036.73,
+           "hourly": 129.59,
+           "otx15": 194.39,
+           "otx2": 259.18,
+           "weekly": 0,
+           "min_hours": 0
+          }
+         ]
+        },
+        "A": {
+         "name": "Actor",
+         "abbr": "A",
+         "article": "B101",
+         "union": "UBCP/ACTRA",
+         "contract": "BCMPA",
+         "description": "",
+         "type": "Film/TV",
+         "rates": [
+          {
+           "date": "2014-03-30T00:00:00",
+           "daily": 439.99,
+           "hourly": 55.0,
+           "otx15": 82.5,
+           "otx2": 110.0,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2015-03-29T00:00:00",
+           "daily": 448.79,
+           "hourly": 56.1,
+           "otx15": 84.15,
+           "otx2": 112.2,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2016-04-03T00:00:00",
+           "daily": 457.77,
+           "hourly": 57.22,
+           "otx15": 85.83,
+           "otx2": 114.44,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2017-04-02T00:00:00",
+           "daily": 466.93,
+           "hourly": 58.37,
+           "otx15": 87.56,
+           "otx2": 116.74,
+           "weekly": 0,
+           "min_hours": 0
+          }
+         ]
+        },
+        "C": {
+         "name": "Choreographer",
+         "abbr": "C",
+         "article": "B101",
+         "union": "UBCP/ACTRA",
+         "contract": "BCMPA",
+         "description": "",
+         "type": "Film/TV",
+         "rates": [
+          {
+           "date": "2014-03-30T00:00:00",
+           "daily": 653.78,
+           "hourly": 81.72,
+           "otx15": 122.58,
+           "otx2": 163.44,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2015-03-29T00:00:00",
+           "daily": 666.86,
+           "hourly": 83.36,
+           "otx15": 125.04,
+           "otx2": 166.72,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2016-04-03T00:00:00",
+           "daily": 680.2,
+           "hourly": 85.03,
+           "otx15": 127.55,
+           "otx2": 170.06,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2017-04-02T00:00:00",
+           "daily": 693.8,
+           "hourly": 86.73,
+           "otx15": 130.1,
+           "otx2": 173.46,
+           "weekly": 0,
+           "min_hours": 0
+          }
+         ]
+        },
+        "GS": {
+         "name": "Group Singers",
+         "abbr": "GS",
+         "article": "B101",
+         "union": "UBCP/ACTRA",
+         "contract": "BCMPA",
+         "description": "",
+         "type": "Film/TV",
+         "rates": [
+          {
+           "date": "2014-03-30T00:00:00",
+           "daily": 489.73,
+           "hourly": 61.22,
+           "otx15": 91.83,
+           "otx2": 122.44,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2015-03-29T00:00:00",
+           "daily": 499.52,
+           "hourly": 62.44,
+           "otx15": 93.66,
+           "otx2": 124.88,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2016-04-03T00:00:00",
+           "daily": 509.51,
+           "hourly": 63.69,
+           "otx15": 95.54,
+           "otx2": 127.38,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2017-04-02T00:00:00",
+           "daily": 519.7,
+           "hourly": 64.96,
+           "otx15": 97.44,
+           "otx2": 129.92,
+           "weekly": 0,
+           "min_hours": 0
+          }
+         ]
+        },
+        "D": {
+         "name": "Dancers",
+         "abbr": "D",
+         "article": "B101",
+         "union": "UBCP/ACTRA",
+         "contract": "BCMPA",
+         "description": "",
+         "type": "Film/TV",
+         "rates": [
+          {
+           "date": "2014-03-30T00:00:00",
+           "daily": 489.73,
+           "hourly": 61.22,
+           "otx15": 91.83,
+           "otx2": 122.44,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2015-03-29T00:00:00",
+           "daily": 499.52,
+           "hourly": 62.44,
+           "otx15": 93.66,
+           "otx2": 124.88,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2016-04-03T00:00:00",
+           "daily": 509.51,
+           "hourly": 63.69,
+           "otx15": 95.54,
+           "otx2": 127.38,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2017-04-02T00:00:00",
+           "daily": 519.7,
+           "hourly": 64.96,
+           "otx15": 97.44,
+           "otx2": 129.92,
+           "weekly": 0,
+           "min_hours": 0
+          }
+         ]
+        },
+        "VP": {
+         "name": "Variety Principal",
+         "abbr": "VP",
+         "article": "B101",
+         "union": "UBCP/ACTRA",
+         "contract": "BCMPA",
+         "description": "",
+         "type": "Film/TV",
+         "rates": [
+          {
+           "date": "2014-03-30T00:00:00",
+           "daily": 979.43,
+           "hourly": 122.43,
+           "otx15": 183.65,
+           "otx2": 244.86,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2015-03-29T00:00:00",
+           "daily": 999.02,
+           "hourly": 124.88,
+           "otx15": 187.32,
+           "otx2": 249.76,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2016-04-03T00:00:00",
+           "daily": 1019.0,
+           "hourly": 127.38,
+           "otx15": 191.07,
+           "otx2": 254.76,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2017-04-02T00:00:00",
+           "daily": 1039.38,
+           "hourly": 129.92,
+           "otx15": 194.88,
+           "otx2": 259.84,
+           "weekly": 0,
+           "min_hours": 0
+          }
+         ]
+        }
+       },
+       "contract": "BCMPA"
+      },
+      "B104": {
+       "article": "B104",
+       "description": "Minimum Fees for Off-Camera Performers and Lip Synchronization in Programs (Per Program)",
+       "start": 55,
+       "end": 66,
+       "categories": {},
+       "contract": null
+      },
+      "B105": {
+       "article": "B105",
+       "description": "Minimum Fees for Off-Camera Narrators and Commentators in Programs (Per Program)",
+       "start": 66,
+       "end": 68,
+       "categories": {},
+       "contract": null
+      },
+      "B106": {
+       "article": "B106",
+       "description": "Billboards and Bumpers",
+       "start": 68,
+       "end": 71,
+       "categories": {},
+       "contract": null
+      },
+      "B107": {
+       "article": "B107",
+       "description": "Public Service Announcements",
+       "start": 71,
+       "end": 78,
+       "categories": {
+        "OCP": {
+         "name": "On-Camera Performer",
+         "abbr": "OCP",
+         "article": "B107",
+         "union": "UBCP/ACTRA",
+         "contract": "BCMPA",
+         "description": "",
+         "type": "Film/TV",
+         "rates": [
+          {
+           "date": "2014-03-30T00:00:00",
+           "daily": 653.77,
+           "hourly": 666.86,
+           "otx15": 680.2,
+           "otx2": 693.8,
+           "weekly": 8,
+           "min_hours": 0
+          }
+         ]
+        },
+        "S": {
+         "name": "Singers",
+         "abbr": "S",
+         "article": "B107",
+         "union": "UBCP/ACTRA",
+         "contract": "BCMPA",
+         "description": "",
+         "type": "Film/TV",
+         "rates": [
+          {
+           "date": "2014-03-30T00:00:00",
+           "daily": 457.7,
+           "hourly": 466.85,
+           "otx15": 476.19,
+           "otx2": 485.71,
+           "weekly": 4,
+           "min_hours": 0
+          }
+         ]
+        }
+       },
+       "contract": "BCMPA"
+      },
+      "B108": {
+       "article": "B108",
+       "description": "Interstitial - Rates",
+       "start": 78,
+       "end": 88,
+       "categories": {},
+       "contract": null
+      },
+      "B109": {
+       "article": "B109",
+       "description": "Series Theme Music",
+       "start": 88,
+       "end": 91,
+       "categories": {},
+       "contract": null
+      },
+      "D101": {
+       "article": "D101",
+       "description": "Minimum Daily Fees (Per Qualified Background Performer)",
+       "start": 91,
+       "end": 120,
+       "categories": {
+        "SABP": {
+         "name": "Special Ability Background Performer",
+         "abbr": "SABP",
+         "article": "D101",
+         "union": "UBCP/ACTRA",
+         "contract": "BCMPA",
+         "description": "",
+         "type": "Film/TV",
+         "rates": [
+          {
+           "date": "2014-03-30T00:00:00",
+           "daily": 246.17,
+           "hourly": 30.77,
+           "otx15": 46.16,
+           "otx2": 61.54,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2015-03-29T00:00:00",
+           "daily": 251.09,
+           "hourly": 31.39,
+           "otx15": 47.09,
+           "otx2": 62.78,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2016-04-03T00:00:00",
+           "daily": 256.11,
+           "hourly": 32.01,
+           "otx15": 48.02,
+           "otx2": 64.02,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2017-04-02T00:00:00",
+           "daily": 261.23,
+           "hourly": 32.65,
+           "otx15": 48.98,
+           "otx2": 65.3,
+           "weekly": 0,
+           "min_hours": 0
+          }
+         ]
+        },
+        "SI": {
+         "name": "Stand-in",
+         "abbr": "SI",
+         "article": "D101",
+         "union": "UBCP/ACTRA",
+         "contract": "BCMPA",
+         "description": "",
+         "type": "Film/TV",
+         "rates": [
+          {
+           "date": "2014-03-30T00:00:00",
+           "daily": 193.05,
+           "hourly": 24.13,
+           "otx15": 36.2,
+           "otx2": 48.26,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2015-03-29T00:00:00",
+           "daily": 196.91,
+           "hourly": 24.61,
+           "otx15": 36.92,
+           "otx2": 49.22,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2016-04-03T00:00:00",
+           "daily": 200.85,
+           "hourly": 25.11,
+           "otx15": 37.67,
+           "otx2": 50.22,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2017-04-02T00:00:00",
+           "daily": 204.87,
+           "hourly": 25.61,
+           "otx15": 38.42,
+           "otx2": 51.22,
+           "weekly": 0,
+           "min_hours": 0
+          }
+         ]
+        },
+        "GBP": {
+         "name": "General Background Performer",
+         "abbr": "GBP",
+         "article": "D101",
+         "union": "UBCP/ACTRA",
+         "contract": "BCMPA",
+         "description": "",
+         "type": "Film/TV",
+         "rates": [
+          {
+           "date": "2014-03-30T00:00:00",
+           "daily": 183.42,
+           "hourly": 22.93,
+           "otx15": 34.4,
+           "otx2": 45.86,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2015-03-29T00:00:00",
+           "daily": 187.09,
+           "hourly": 23.39,
+           "otx15": 35.09,
+           "otx2": 46.78,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2016-04-03T00:00:00",
+           "daily": 190.83,
+           "hourly": 23.85,
+           "otx15": 35.78,
+           "otx2": 47.7,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2017-04-02T00:00:00",
+           "daily": 194.65,
+           "hourly": 24.33,
+           "otx15": 36.5,
+           "otx2": 48.66,
+           "weekly": 0,
+           "min_hours": 0
+          }
+         ]
+        },
+        "PD": {
+         "name": "Photographic Double",
+         "abbr": "PD",
+         "article": "D101",
+         "union": "UBCP/ACTRA",
+         "contract": "BCMPA",
+         "description": "",
+         "type": "Film/TV",
+         "rates": [
+          {
+           "date": "2014-03-30T00:00:00",
+           "daily": 183.42,
+           "hourly": 22.93,
+           "otx15": 34.4,
+           "otx2": 45.86,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2015-03-29T00:00:00",
+           "daily": 187.09,
+           "hourly": 23.39,
+           "otx15": 35.09,
+           "otx2": 46.78,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2016-04-03T00:00:00",
+           "daily": 190.83,
+           "hourly": 23.85,
+           "otx15": 35.78,
+           "otx2": 47.7,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2017-04-02T00:00:00",
+           "daily": 194.65,
+           "hourly": 24.33,
+           "otx15": 36.5,
+           "otx2": 48.66,
+           "weekly": 0,
+           "min_hours": 0
+          }
+         ]
+        }
+       },
+       "contract": "BCMPA"
+      },
+      "E301": {
+       "article": "E301",
+       "description": "Fees - Dubbing (Per Hour of Work or Part Thereof)",
+       "start": 120,
+       "end": 143,
+       "categories": {
+        "PLF": {
+         "name": "Per Line Fee",
+         "abbr": "PLF",
+         "article": "E301",
+         "union": "UBCP/ACTRA",
+         "contract": "BCMPA",
+         "description": "",
+         "type": "Film/TV",
+         "rates": [
+          {
+           "date": "2017-04-02T00:00:00",
+           "daily": 4.34,
+           "hourly": 4.43,
+           "otx15": 4.52,
+           "otx2": 4.61,
+           "weekly": 0,
+           "min_hours": 0
+          }
+         ]
+        }
+       },
+       "contract": "BCMPA"
+      },
+      "E601": {
+       "article": "E601",
+       "description": "Doubling",
+       "start": 143,
+       "end": 147,
+       "categories": {
+        "SESD": {
+         "name": "Second and Each Subsequent Double",
+         "abbr": "SESD",
+         "article": "E601",
+         "union": "UBCP/ACTRA",
+         "contract": "BCMPA",
+         "description": "",
+         "type": "Film/TV",
+         "rates": [
+          {
+           "date": "2014-03-30T00:00:00",
+           "daily": 36.93,
+           "hourly": 37.67,
+           "otx15": 38.42,
+           "otx2": 39.19,
+           "weekly": 0,
+           "min_hours": 0
+          }
+         ]
+        },
+        "FD": {
+         "name": "First Double",
+         "abbr": "FD",
+         "article": "E601",
+         "union": "UBCP/ACTRA",
+         "contract": "BCMPA",
+         "description": "",
+         "type": "Film/TV",
+         "rates": [
+          {
+           "date": "2014-03-30T00:00:00",
+           "daily": 56.35,
+           "hourly": 57.48,
+           "otx15": 58.63,
+           "otx2": 59.8,
+           "weekly": 0,
+           "min_hours": 0
+          }
+         ]
+        }
+       },
+       "contract": "BCMPA"
+      }
+     },
+     "jurisdiction": [
+      "BC"
+     ],
+     "csv": [
+      [
+       "2015-18 UBCP MASTER PRODUCTION AGREEMENT WAGE RATES"
+      ],
+      [
+       " The UBCP may allocate one-half percent (0.5%) of the wage increase to fringe benefits in either the second or"
+      ],
+      [
+       "third year of the contract, in which case the wage increase shall be reduced to one and one-half percent (1.5%)"
+      ],
+      [
+       "for the chosen year, by giving advance notice to the Negotiating Producers at least ninety (90) days prior to"
+      ],
+      [
+       "April 3, 2016 or April 2, 2017, respectively. If such allocation occurs, then the Negotiating Producers will issue"
+      ],
+      [
+       "new rates."
+      ],
+      [
+       "ARTICLE B1 - MINIMUM FEES"
+      ],
+      [
+       "B101 Minimum Daily Fees (Per Performer/Per Program)"
+      ],
+      [
+       "Effective March 30, 2014",
+       "Daily Fee",
+       "Hourly Rate",
+       "Overtime Rate @ 1.5",
+       "Overtime Rate @ 2x"
+      ],
+      [
+       "Principal Actor/Stunt Performer",
+       653.78,
+       "81.72",
+       "122.58",
+       "163.44"
+      ],
+      [
+       "Group Singers/Dancers",
+       489.73,
+       "61.22",
+       "91.83",
+       "122.44"
+      ],
+      [
+       "Actor",
+       439.99,
+       "55.00",
+       "82.50",
+       "110.00"
+      ],
+      [
+       "Variety Principal",
+       979.43,
+       "122.43",
+       "183.65",
+       "244.86"
+      ],
+      [
+       "Chorus Performer",
+       636.36,
+       "79.55",
+       "119.33",
+       "159.10"
+      ],
+      [
+       "Stunt Coordinator",
+       850.15,
+       "106.27",
+       "159.41",
+       "212.54"
+      ],
+      [
+       "Stunt Actor",
+       976.93,
+       "122.12",
+       "183.18",
+       "244.24"
+      ],
+      [
+       "Choreographer",
+       653.78,
+       "81.72",
+       "122.58",
+       "163.44"
+      ],
+      [
+       "Vocal/Dialogue Coach",
+       976.93,
+       "122.12",
+       "183.18",
+       "244.24"
+      ],
+      [
+       "Effective March 29, 2015",
+       "Daily Fee",
+       "Hourly Rate",
+       "Overtime Rate @ 1.5",
+       "Overtime Rate @ 2x"
+      ],
+      [
+       "Principal Actor/Stunt Performer",
+       666.86,
+       "83.36",
+       "125.04",
+       "166.72"
+      ],
+      [
+       "Group Singers/Dancers",
+       499.52,
+       "62.44",
+       "93.66",
+       "124.88"
+      ],
+      [
+       "Actor",
+       448.79,
+       "56.10",
+       "84.15",
+       "112.20"
+      ],
+      [
+       "Variety Principal",
+       999.02,
+       "124.88",
+       "187.32",
+       "249.76"
+      ],
+      [
+       "Chorus Performer",
+       649.09,
+       "81.14",
+       "121.71",
+       "162.28"
+      ],
+      [
+       "Stunt Coordinator",
+       867.15,
+       "108.39",
+       "162.59",
+       "216.78"
+      ],
+      [
+       "Stunt Actor",
+       996.47,
+       "124.56",
+       "186.84",
+       "249.12"
+      ],
+      [
+       "Choreographer",
+       666.86,
+       "83.36",
+       "125.04",
+       "166.72"
+      ],
+      [
+       "Vocal/Dialogue Coach",
+       996.47,
+       "124.56",
+       "186.84",
+       "249.12"
+      ],
+      [
+       "Effective April 3, 2016",
+       "Daily Fee",
+       "Hourly Rate",
+       "Overtime Rate @ 1.5",
+       "Overtime Rate @ 2x"
+      ],
+      [
+       "Principal Actor/Stunt Performer",
+       680.2,
+       "85.03",
+       "127.55",
+       "170.06"
+      ],
+      [
+       "Group Singers/Dancers",
+       509.51,
+       "63.69",
+       "95.54",
+       "127.38"
+      ],
+      [
+       "Actor",
+       457.77,
+       "57.22",
+       "85.83",
+       "114.44"
+      ],
+      [
+       "Variety Principal",
+       1019.0,
+       "127.38",
+       "191.07",
+       "254.76"
+      ],
+      [
+       "Chorus Performer",
+       662.07,
+       "82.76",
+       "124.14",
+       "165.52"
+      ],
+      [
+       "Stunt Coordinator",
+       884.49,
+       "110.56",
+       "165.84",
+       "221.12"
+      ],
+      [
+       "Stunt Actor",
+       1016.4,
+       "127.05",
+       "190.58",
+       "254.10"
+      ],
+      [
+       "Choreographer",
+       680.2,
+       "85.03",
+       "127.55",
+       "170.06"
+      ],
+      [
+       "Vocal/Dialogue Coach",
+       1016.4,
+       "127.05",
+       "190.58",
+       "254.10"
+      ],
+      [
+       "2015-18 UBCP MASTER PRODUCTION AGREEMENT WAGE RATES",
+       "",
+       "",
+       "",
+       "",
+       "",
+       "",
+       "",
+       ""
+      ],
+      [
+       " The UBCP may allocate one-half percent (0.5%) of the wage increase to fringe benefits in either the second or"
+      ],
+      [
+       "third year of the contract, in which case the wage increase shall be reduced to one and one-half percent (1.5%)"
+      ],
+      [
+       "for the chosen year, by giving advance notice to the Negotiating Producers at least ninety (90) days prior to"
+      ],
+      [
+       "April 3, 2016 or April 2, 2017, respectively. If such allocation occurs, then the Negotiating Producers will issue"
+      ],
+      [
+       "new rates."
+      ],
+      [
+       "B101 Minimum Daily Fees (Per Performer/Per Program) (continued)"
+      ],
+      [
+       "Effective April 2, 2017",
+       "Daily Fee",
+       "Hourly Rate",
+       "Overtime Rate @ 1.5",
+       "Overtime Rate @ 2x"
+      ],
+      [
+       "Principal Actor/Stunt Performer",
+       693.8,
+       "86.73",
+       "130.10",
+       "173.46"
+      ],
+      [
+       "Group Singers/Dancers",
+       519.7,
+       "64.96",
+       "97.44",
+       "129.92"
+      ],
+      [
+       "Actor",
+       466.93,
+       "58.37",
+       "87.56",
+       "116.74"
+      ],
+      [
+       "Variety Principal",
+       1039.38,
+       "129.92",
+       "194.88",
+       "259.84"
+      ],
+      [
+       "Chorus Performer",
+       675.31,
+       "84.41",
+       "126.62",
+       "168.82"
+      ],
+      [
+       "Stunt Coordinator",
+       902.18,
+       "112.77",
+       "169.16",
+       "225.54"
+      ],
+      [
+       "Stunt Actor",
+       1036.73,
+       "129.59",
+       "194.39",
+       "259.18"
+      ],
+      [
+       "Choreographer",
+       693.8,
+       "86.73",
+       "130.10",
+       "173.46"
+      ],
+      [
+       "Vocal/Dialogue Coach",
+       1036.73,
+       "129.59",
+       "194.39",
+       "259.18"
+      ],
+      [
+       "B104 Minimum Fees for Off-Camera Performers and Lip Synchronization in Programs (Per Program)"
+      ],
+      [
+       "Effective March 30, 2014",
+       "Daily Fee",
+       "Hourly Fee",
+       "Overtime Rate @ 1.5",
+       "Included Work Hours"
+      ],
+      [
+       "Effective March 29, 2015",
+       "Daily Fee",
+       "Hourly Fee",
+       "Overtime Rate @ 1.5",
+       "Included Work Hours"
+      ],
+      [
+       "Effective April 3, 2016",
+       "Daily Fee",
+       "Hourly Fee",
+       "Overtime Rate @ 1.5",
+       "Included Work Hours"
+      ],
+      [
+       "Effective April 2, 2017",
+       "Daily Fee",
+       "Hourly Fee",
+       "Overtime Rate @ 1.5",
+       "Included Work Hours"
+      ],
+      [
+       "2015-18 UBCP MASTER PRODUCTION AGREEMENT WAGE RATES",
+       "",
+       "",
+       "",
+       "",
+       "",
+       "",
+       "",
+       "",
+       ""
+      ],
+      [
+       " The UBCP may allocate one-half percent (0.5%) of the wage increase to fringe benefits in either the second or"
+      ],
+      [
+       "third year of the contract, in which case the wage increase shall be reduced to one and one-half percent (1.5%)"
+      ],
+      [
+       "for the chosen year, by giving advance notice to the Negotiating Producers at least ninety (90) days prior to"
+      ],
+      [
+       "April 3, 2016 or April 2, 2017, respectively. If such allocation occurs, then the Negotiating Producers will issue"
+      ],
+      [
+       "new rates."
+      ],
+      [
+       "B105 Minimum Fees for Off-Camera Narrators and Commentators in Programs (Per Program)"
+      ],
+      [
+       "Effective 3/30/2014",
+       "Effective 3/29/2015",
+       "Effective 4/3/2016",
+       "Effective 4/2/2017"
+      ],
+      [
+       "B106 Billboards and Bumpers"
+      ],
+      [
+       "Effective 3/30/2014",
+       "Effective 3/29/2015",
+       "Effective 4/3/2016",
+       "Effective 4/2/2017"
+      ],
+      [
+       "Off-Camera Performers and Group"
+      ],
+      [
+       "B107 Public Service Announcements"
+      ],
+      [
+       "Effective 3/30/2014",
+       "Effective 3/29/2015",
+       "Effective 4/3/2016",
+       "Effective 4/2/2017",
+       "Included Work Hours"
+      ],
+      [
+       "On-Camera Performer",
+       653.77,
+       "666.86",
+       "680.20",
+       "693.80",
+       "8"
+      ],
+      [
+       "Off-Camera Performers and Group"
+      ],
+      [
+       "Singers",
+       457.7,
+       "466.85",
+       "476.19",
+       "485.71",
+       "4"
+      ],
+      [
+       "Hourly Rate in excess of included"
+      ],
+      [
+       "work time up to and including 8th"
+      ],
+      [
+       "B108 Interstitial - Rates"
+      ],
+      [
+       "Effective 3/30/2014",
+       "Effective 3/29/2015",
+       "Effective 4/3/2016",
+       "Effective 4/2/2017"
+      ],
+      [
+       "Per 10 minutes of finished recording"
+      ],
+      [
+       "Hourly Rate for additional"
+      ],
+      [
+       "2015-18 UBCP MASTER PRODUCTION AGREEMENT WAGE RATES",
+       "",
+       "",
+       "",
+       "",
+       "",
+       "",
+       "",
+       ""
+      ],
+      [
+       " The UBCP may allocate one-half percent (0.5%) of the wage increase to fringe benefits in either the second or"
+      ],
+      [
+       "third year of the contract, in which case the wage increase shall be reduced to one and one-half percent (1.5%)"
+      ],
+      [
+       "for the chosen year, by giving advance notice to the Negotiating Producers at least ninety (90) days prior to"
+      ],
+      [
+       "April 3, 2016 or April 2, 2017, respectively. If such allocation occurs, then the Negotiating Producers will issue"
+      ],
+      [
+       "new rates."
+      ],
+      [
+       "B109 Series Theme Music"
+      ],
+      [
+       "Group Singers",
+       "Daily Fee",
+       "Hourly Fee",
+       "Overtime Rate @ 1.5",
+       "Included Work Hours"
+      ],
+      [
+       "ARTICLE D1 - MINIMUM FEES FOR QUALIFIED BACKGROUND PERFORMERS"
+      ],
+      [
+       "D101 Minimum Daily Fees (Per Qualified Background Performer)"
+      ],
+      [
+       "Effective March 30, 2014:",
+       "Daily Fee",
+       "Hourly Rate",
+       "Overtime Rate @ 1.5",
+       "Overtime Rate @ 2x"
+      ],
+      [
+       "Stand-in",
+       193.05,
+       "24.13",
+       "36.20",
+       "48.26"
+      ],
+      [
+       "General Background Performer",
+       183.42,
+       "22.93",
+       "34.40",
+       "45.86"
+      ],
+      [
+       "Special Ability Background Performer",
+       246.17,
+       "30.77",
+       "46.16",
+       "61.54"
+      ],
+      [
+       "Photographic Double",
+       183.42,
+       "22.93",
+       "34.40",
+       "45.86"
+      ],
+      [
+       "Effective March 29, 2015:",
+       "Daily Fee",
+       "Hourly Rate",
+       "Overtime Rate @ 1.5",
+       "Overtime Rate @ 2x"
+      ],
+      [
+       "Stand-in",
+       196.91,
+       "24.61",
+       "36.92",
+       "49.22"
+      ],
+      [
+       "General Background Performer",
+       187.09,
+       "23.39",
+       "35.09",
+       "46.78"
+      ],
+      [
+       "Special Ability Background Performer",
+       251.09,
+       "31.39",
+       "47.09",
+       "62.78"
+      ],
+      [
+       "Photographic Double",
+       187.09,
+       "23.39",
+       "35.09",
+       "46.78"
+      ],
+      [
+       "2015-18 UBCP MASTER PRODUCTION AGREEMENT WAGE RATES",
+       "",
+       "",
+       "",
+       "",
+       "",
+       "",
+       "",
+       ""
+      ],
+      [
+       " The UBCP may allocate one-half percent (0.5%) of the wage increase to fringe benefits in either the second or"
+      ],
+      [
+       "third year of the contract, in which case the wage increase shall be reduced to one and one-half percent (1.5%)"
+      ],
+      [
+       "for the chosen year, by giving advance notice to the Negotiating Producers at least ninety (90) days prior to"
+      ],
+      [
+       "April 3, 2016 or April 2, 2017, respectively. If such allocation occurs, then the Negotiating Producers will issue"
+      ],
+      [
+       "new rates."
+      ],
+      [
+       "D101 Minimum Daily Fees (Per Qualified Background Performer) (continued)"
+      ],
+      [
+       "Effective April 3, 2016:",
+       "Daily Fee",
+       "Hourly Rate",
+       "Overtime Rate @ 1.5",
+       "Overtime Rate @ 2x"
+      ],
+      [
+       "Stand-in",
+       200.85,
+       "25.11",
+       "37.67",
+       "50.22"
+      ],
+      [
+       "General Background Performer",
+       190.83,
+       "23.85",
+       "35.78",
+       "47.70"
+      ],
+      [
+       "Special Ability Background Performer",
+       256.11,
+       "32.01",
+       "48.02",
+       "64.02"
+      ],
+      [
+       "Photographic Double",
+       190.83,
+       "23.85",
+       "35.78",
+       "47.70"
+      ],
+      [
+       "Effective April 2, 2017:",
+       "Daily Fee",
+       "Hourly Rate",
+       "Overtime Rate @ 1.5",
+       "Overtime Rate @ 2x"
+      ],
+      [
+       "Stand-in",
+       204.87,
+       "25.61",
+       "38.42",
+       "51.22"
+      ],
+      [
+       "General Background Performer",
+       194.65,
+       "24.33",
+       "36.50",
+       "48.66"
+      ],
+      [
+       "Special Ability Background Performer",
+       261.23,
+       "32.65",
+       "48.98",
+       "65.30"
+      ],
+      [
+       "Photographic Double",
+       194.65,
+       "24.33",
+       "36.50",
+       "48.66"
+      ],
+      [
+       "SECTION E - MINIMUM FEES FOR PERFORMERS IN DUBBING"
+      ],
+      [
+       "E301 Fees - Dubbing (Per Hour of Work or Part Thereof)"
+      ],
+      [
+       "Hours",
+       "Effective 3/30/2014",
+       "Effective 3/29/2015",
+       "Effective 4/3/2016",
+       "Effective 4/2/2017"
+      ],
+      [
+       "1",
+       "155.31",
+       "158.42",
+       "161.59",
+       "164.82"
+      ],
+      [
+       "2",
+       "225.72",
+       "230.23",
+       "234.83",
+       "239.53"
+      ],
+      [
+       "3",
+       "297.61",
+       "303.56",
+       "309.63",
+       "315.82"
+      ],
+      [
+       "3.5",
+       "333.57",
+       "340.24",
+       "347.04",
+       "353.98"
+      ],
+      [
+       "4",
+       "369.52",
+       "376.91",
+       "384.45",
+       "392.14"
+      ],
+      [
+       "4.5",
+       "404.02",
+       "412.10",
+       "420.34",
+       "428.75"
+      ],
+      [
+       "5",
+       "439.98",
+       "448.78",
+       "457.76",
+       "466.92"
+      ],
+      [
+       "5.5",
+       "475.93",
+       "485.45",
+       "495.16",
+       "505.06"
+      ],
+      [
+       "6",
+       "511.85",
+       "522.09",
+       "532.53",
+       "543.18"
+      ],
+      [
+       "6.5",
+       "547.81",
+       "558.77",
+       "569.95",
+       "581.35"
+      ],
+      [
+       "7",
+       "583.76",
+       "595.44",
+       "607.35",
+       "619.50"
+      ],
+      [
+       "7.5",
+       "619.69",
+       "632.08",
+       "644.72",
+       "657.61"
+      ],
+      [
+       "8",
+       "655.64",
+       "668.75",
+       "682.13",
+       "695.77"
+      ],
+      [
+       "Each additional hour, calculated in one-quarter (1/4) hour units of work",
+       107.38,
+       "109.53",
+       "111.72",
+       "113.95"
+      ],
+      [
+       "Per Line Fee",
+       4.34,
+       "4.43",
+       "4.52",
+       "4.61"
+      ],
+      [
+       "2015-18 UBCP MASTER PRODUCTION AGREEMENT WAGE RATES",
+       "",
+       "",
+       "",
+       "",
+       "",
+       "",
+       "",
+       ""
+      ],
+      [
+       " The UBCP may allocate one-half percent (0.5%) of the wage increase to fringe benefits in either the second or"
+      ],
+      [
+       "third year of the contract, in which case the wage increase shall be reduced to one and one-half percent (1.5%)"
+      ],
+      [
+       "for the chosen year, by giving advance notice to the Negotiating Producers at least ninety (90) days prior to"
+      ],
+      [
+       "April 3, 2016 or April 2, 2017, respectively. If such allocation occurs, then the Negotiating Producers will issue"
+      ],
+      [
+       "new rates."
+      ],
+      [
+       "E601 Doubling"
+      ],
+      [
+       "Effective 3/30/2014",
+       "Effective 3/29/2015",
+       "Effective 4/3/2016",
+       "Effective 4/2/2017"
+      ],
+      [
+       "First Double",
+       56.35,
+       "57.48",
+       "58.63",
+       "59.80"
+      ],
+      [
+       "Second and Each Subsequent Double",
+       36.93,
+       "37.67",
+       "38.42",
+       "39.19"
+      ]
+     ]
+    },
+    "2018": {
+     "name": "UBCP Master Production Agreement",
+     "abbr": "BCMPA",
+     "type": "Film/TV",
+     "union": {
+      "name": "Union of British Columbia Performers",
+      "abbr": "UBCP/ACTRA"
+     },
+     "year": "2018",
+     "end": "2021",
+     "effective": [
+      "2017-04-02 00:00:00",
+      "2018-04-01 00:00:00",
+      "2019-03-31 00:00:00",
+      "2020-03-29 00:00:00"
+     ],
+     "articles": {
+      "B101": {
+       "article": "B101",
+       "description": "Minimum Daily Fees (Per Performer/Per Program)",
+       "start": 2,
+       "end": 45,
+       "categories": {
+        "SC": {
+         "name": "Stunt Coordinator",
+         "abbr": "SC",
+         "article": "B101",
+         "union": "UBCP/ACTRA",
+         "contract": "BCMPA",
+         "description": "",
+         "type": "Film/TV",
+         "rates": [
+          {
+           "date": "2017-04-02T00:00:00",
+           "daily": 902.18,
+           "hourly": 112.77,
+           "otx15": 169.16,
+           "otx2": 225.54,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2018-04-01T00:00:00",
+           "daily": 929.25,
+           "hourly": 116.16,
+           "otx15": 174.24,
+           "otx2": 232.32,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2019-03-31T00:00:00",
+           "daily": 957.13,
+           "hourly": 119.64,
+           "otx15": 179.46,
+           "otx2": 239.28,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2020-03-29T00:00:00",
+           "daily": 985.84,
+           "hourly": 123.23,
+           "otx15": 184.85,
+           "otx2": 246.46,
+           "weekly": 0,
+           "min_hours": 0
+          }
+         ]
+        },
+        "CP": {
+         "name": "Chorus Performer",
+         "abbr": "CP",
+         "article": "B101",
+         "union": "UBCP/ACTRA",
+         "contract": "BCMPA",
+         "description": "",
+         "type": "Film/TV",
+         "rates": [
+          {
+           "date": "2017-04-02T00:00:00",
+           "daily": 675.31,
+           "hourly": 84.41,
+           "otx15": 126.62,
+           "otx2": 168.82,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2018-04-01T00:00:00",
+           "daily": 695.57,
+           "hourly": 86.95,
+           "otx15": 130.43,
+           "otx2": 173.9,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2019-03-31T00:00:00",
+           "daily": 716.44,
+           "hourly": 89.56,
+           "otx15": 134.34,
+           "otx2": 179.12,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2020-03-29T00:00:00",
+           "daily": 737.93,
+           "hourly": 92.24,
+           "otx15": 138.36,
+           "otx2": 184.48,
+           "weekly": 0,
+           "min_hours": 0
+          }
+         ]
+        },
+        "V": {
+         "name": "Vocal",
+         "abbr": "V",
+         "article": "B101",
+         "union": "UBCP/ACTRA",
+         "contract": "BCMPA",
+         "description": "",
+         "type": "Film/TV",
+         "rates": [
+          {
+           "date": "2017-04-02T00:00:00",
+           "daily": 1036.73,
+           "hourly": 129.59,
+           "otx15": 194.39,
+           "otx2": 259.18,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2018-04-01T00:00:00",
+           "daily": 1067.83,
+           "hourly": 133.48,
+           "otx15": 200.22,
+           "otx2": 266.96,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2019-03-31T00:00:00",
+           "daily": 1099.86,
+           "hourly": 137.48,
+           "otx15": 206.22,
+           "otx2": 274.96,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2020-03-29T00:00:00",
+           "daily": 1132.86,
+           "hourly": 141.61,
+           "otx15": 212.42,
+           "otx2": 283.22,
+           "weekly": 0,
+           "min_hours": 0
+          }
+         ]
+        },
+        "DC": {
+         "name": "Dialogue Coach",
+         "abbr": "DC",
+         "article": "B101",
+         "union": "UBCP/ACTRA",
+         "contract": "BCMPA",
+         "description": "",
+         "type": "Film/TV",
+         "rates": [
+          {
+           "date": "2017-04-02T00:00:00",
+           "daily": 1036.73,
+           "hourly": 129.59,
+           "otx15": 194.39,
+           "otx2": 259.18,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2018-04-01T00:00:00",
+           "daily": 1067.83,
+           "hourly": 133.48,
+           "otx15": 200.22,
+           "otx2": 266.96,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2019-03-31T00:00:00",
+           "daily": 1099.86,
+           "hourly": 137.48,
+           "otx15": 206.22,
+           "otx2": 274.96,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2020-03-29T00:00:00",
+           "daily": 1132.86,
+           "hourly": 141.61,
+           "otx15": 212.42,
+           "otx2": 283.22,
+           "weekly": 0,
+           "min_hours": 0
+          }
+         ]
+        },
+        "PA": {
+         "name": "Principal Actor",
+         "abbr": "PA",
+         "article": "B101",
+         "union": "UBCP/ACTRA",
+         "contract": "BCMPA",
+         "description": "",
+         "type": "Film/TV",
+         "rates": [
+          {
+           "date": "2017-04-02T00:00:00",
+           "daily": 693.8,
+           "hourly": 86.73,
+           "otx15": 130.1,
+           "otx2": 173.46,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2018-04-01T00:00:00",
+           "daily": 714.61,
+           "hourly": 89.33,
+           "otx15": 134.0,
+           "otx2": 178.66,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2019-03-31T00:00:00",
+           "daily": 736.05,
+           "hourly": 92.01,
+           "otx15": 138.02,
+           "otx2": 184.02,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2020-03-29T00:00:00",
+           "daily": 758.13,
+           "hourly": 94.77,
+           "otx15": 142.16,
+           "otx2": 189.54,
+           "weekly": 0,
+           "min_hours": 0
+          }
+         ]
+        },
+        "SP": {
+         "name": "Stunt Performer",
+         "abbr": "SP",
+         "article": "B101",
+         "union": "UBCP/ACTRA",
+         "contract": "BCMPA",
+         "description": "",
+         "type": "Film/TV",
+         "rates": [
+          {
+           "date": "2017-04-02T00:00:00",
+           "daily": 693.8,
+           "hourly": 86.73,
+           "otx15": 130.1,
+           "otx2": 173.46,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2018-04-01T00:00:00",
+           "daily": 714.61,
+           "hourly": 89.33,
+           "otx15": 134.0,
+           "otx2": 178.66,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2019-03-31T00:00:00",
+           "daily": 736.05,
+           "hourly": 92.01,
+           "otx15": 138.02,
+           "otx2": 184.02,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2020-03-29T00:00:00",
+           "daily": 758.13,
+           "hourly": 94.77,
+           "otx15": 142.16,
+           "otx2": 189.54,
+           "weekly": 0,
+           "min_hours": 0
+          }
+         ]
+        },
+        "SA": {
+         "name": "Stunt Actor",
+         "abbr": "SA",
+         "article": "B101",
+         "union": "UBCP/ACTRA",
+         "contract": "BCMPA",
+         "description": "",
+         "type": "Film/TV",
+         "rates": [
+          {
+           "date": "2017-04-02T00:00:00",
+           "daily": 1036.73,
+           "hourly": 129.59,
+           "otx15": 194.39,
+           "otx2": 259.18,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2018-04-01T00:00:00",
+           "daily": 1067.83,
+           "hourly": 133.48,
+           "otx15": 200.22,
+           "otx2": 266.96,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2019-03-31T00:00:00",
+           "daily": 1099.86,
+           "hourly": 137.48,
+           "otx15": 206.22,
+           "otx2": 274.96,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2020-03-29T00:00:00",
+           "daily": 1132.86,
+           "hourly": 141.61,
+           "otx15": 212.42,
+           "otx2": 283.22,
+           "weekly": 0,
+           "min_hours": 0
+          }
+         ]
+        },
+        "A": {
+         "name": "Actor",
+         "abbr": "A",
+         "article": "B101",
+         "union": "UBCP/ACTRA",
+         "contract": "BCMPA",
+         "description": "",
+         "type": "Film/TV",
+         "rates": [
+          {
+           "date": "2017-04-02T00:00:00",
+           "daily": 466.93,
+           "hourly": 58.37,
+           "otx15": 87.56,
+           "otx2": 116.74,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2018-04-01T00:00:00",
+           "daily": 480.94,
+           "hourly": 60.12,
+           "otx15": 90.18,
+           "otx2": 120.24,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2019-03-31T00:00:00",
+           "daily": 495.37,
+           "hourly": 61.92,
+           "otx15": 92.88,
+           "otx2": 123.84,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2020-03-29T00:00:00",
+           "daily": 510.23,
+           "hourly": 63.78,
+           "otx15": 95.67,
+           "otx2": 127.56,
+           "weekly": 0,
+           "min_hours": 0
+          }
+         ]
+        },
+        "C": {
+         "name": "Choreographer",
+         "abbr": "C",
+         "article": "B101",
+         "union": "UBCP/ACTRA",
+         "contract": "BCMPA",
+         "description": "",
+         "type": "Film/TV",
+         "rates": [
+          {
+           "date": "2017-04-02T00:00:00",
+           "daily": 693.8,
+           "hourly": 86.73,
+           "otx15": 130.1,
+           "otx2": 173.46,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2018-04-01T00:00:00",
+           "daily": 714.61,
+           "hourly": 89.33,
+           "otx15": 134.0,
+           "otx2": 178.66,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2019-03-31T00:00:00",
+           "daily": 736.05,
+           "hourly": 92.01,
+           "otx15": 138.02,
+           "otx2": 184.02,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2020-03-29T00:00:00",
+           "daily": 758.13,
+           "hourly": 94.77,
+           "otx15": 142.16,
+           "otx2": 189.54,
+           "weekly": 0,
+           "min_hours": 0
+          }
+         ]
+        },
+        "GS": {
+         "name": "Group Singers",
+         "abbr": "GS",
+         "article": "B101",
+         "union": "UBCP/ACTRA",
+         "contract": "BCMPA",
+         "description": "",
+         "type": "Film/TV",
+         "rates": [
+          {
+           "date": "2017-04-02T00:00:00",
+           "daily": 519.7,
+           "hourly": 64.96,
+           "otx15": 97.44,
+           "otx2": 129.92,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2018-04-01T00:00:00",
+           "daily": 535.29,
+           "hourly": 66.91,
+           "otx15": 100.37,
+           "otx2": 133.82,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2019-03-31T00:00:00",
+           "daily": 551.35,
+           "hourly": 68.92,
+           "otx15": 103.38,
+           "otx2": 137.84,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2020-03-29T00:00:00",
+           "daily": 567.89,
+           "hourly": 70.99,
+           "otx15": 106.49,
+           "otx2": 141.98,
+           "weekly": 0,
+           "min_hours": 0
+          }
+         ]
+        },
+        "D": {
+         "name": "Dancers",
+         "abbr": "D",
+         "article": "B101",
+         "union": "UBCP/ACTRA",
+         "contract": "BCMPA",
+         "description": "",
+         "type": "Film/TV",
+         "rates": [
+          {
+           "date": "2017-04-02T00:00:00",
+           "daily": 519.7,
+           "hourly": 64.96,
+           "otx15": 97.44,
+           "otx2": 129.92,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2018-04-01T00:00:00",
+           "daily": 535.29,
+           "hourly": 66.91,
+           "otx15": 100.37,
+           "otx2": 133.82,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2019-03-31T00:00:00",
+           "daily": 551.35,
+           "hourly": 68.92,
+           "otx15": 103.38,
+           "otx2": 137.84,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2020-03-29T00:00:00",
+           "daily": 567.89,
+           "hourly": 70.99,
+           "otx15": 106.49,
+           "otx2": 141.98,
+           "weekly": 0,
+           "min_hours": 0
+          }
+         ]
+        },
+        "VP": {
+         "name": "Variety Principal",
+         "abbr": "VP",
+         "article": "B101",
+         "union": "UBCP/ACTRA",
+         "contract": "BCMPA",
+         "description": "",
+         "type": "Film/TV",
+         "rates": [
+          {
+           "date": "2017-04-02T00:00:00",
+           "daily": 1039.38,
+           "hourly": 129.92,
+           "otx15": 194.88,
+           "otx2": 259.84,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2018-04-01T00:00:00",
+           "daily": 1070.56,
+           "hourly": 133.82,
+           "otx15": 200.73,
+           "otx2": 267.64,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2019-03-31T00:00:00",
+           "daily": 1102.68,
+           "hourly": 137.84,
+           "otx15": 206.76,
+           "otx2": 275.68,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2020-03-29T00:00:00",
+           "daily": 1135.76,
+           "hourly": 141.97,
+           "otx15": 212.96,
+           "otx2": 283.94,
+           "weekly": 0,
+           "min_hours": 0
+          }
+         ]
+        }
+       },
+       "contract": "BCMPA"
+      },
+      "B104": {
+       "article": "B104",
+       "description": "Minimum Fees for Off-Camera Performers and Lip Synchronization in Programs (Per Program)",
+       "start": 45,
+       "end": 51,
+       "categories": {},
+       "contract": null
+      },
+      "B105": {
+       "article": "B105",
+       "description": "Minimum Fees for Off-Camera Narrators and Commentators in Programs (Per Program)",
+       "start": 51,
+       "end": 53,
+       "categories": {},
+       "contract": null
+      },
+      "B106": {
+       "article": "B106",
+       "description": "Billboards and Bumpers",
+       "start": 53,
+       "end": 56,
+       "categories": {},
+       "contract": null
+      },
+      "B107": {
+       "article": "B107",
+       "description": "Public Service Announcements",
+       "start": 56,
+       "end": 63,
+       "categories": {
+        "OCP": {
+         "name": "On-Camera Performer",
+         "abbr": "OCP",
+         "article": "B107",
+         "union": "UBCP/ACTRA",
+         "contract": "BCMPA",
+         "description": "",
+         "type": "Film/TV",
+         "rates": [
+          {
+           "date": "2017-04-02T00:00:00",
+           "daily": 693.8,
+           "hourly": 714.61,
+           "otx15": 736.05,
+           "otx2": 758.13,
+           "weekly": 8,
+           "min_hours": 0
+          }
+         ]
+        },
+        "S": {
+         "name": "Singers",
+         "abbr": "S",
+         "article": "B107",
+         "union": "UBCP/ACTRA",
+         "contract": "BCMPA",
+         "description": "",
+         "type": "Film/TV",
+         "rates": [
+          {
+           "date": "2017-04-02T00:00:00",
+           "daily": 485.71,
+           "hourly": 500.28,
+           "otx15": 515.29,
+           "otx2": 530.75,
+           "weekly": 4,
+           "min_hours": 0
+          }
+         ]
+        }
+       },
+       "contract": "BCMPA"
+      },
+      "B108": {
+       "article": "B108",
+       "description": "Interstitial - Rates",
+       "start": 63,
+       "end": 68,
+       "categories": {},
+       "contract": null
+      },
+      "B109": {
+       "article": "B109",
+       "description": "Series Theme Music",
+       "start": 68,
+       "end": 71,
+       "categories": {},
+       "contract": null
+      },
+      "D101": {
+       "article": "D101",
+       "description": "Minimum Daily Fees (Per Qualified Background Performer)",
+       "start": 71,
+       "end": 95,
+       "categories": {
+        "SABP": {
+         "name": "Special Ability Background Performer",
+         "abbr": "SABP",
+         "article": "D101",
+         "union": "UBCP/ACTRA",
+         "contract": "BCMPA",
+         "description": "",
+         "type": "Film/TV",
+         "rates": [
+          {
+           "date": "2017-04-02T00:00:00",
+           "daily": 261.23,
+           "hourly": 32.65,
+           "otx15": 48.98,
+           "otx2": 65.3,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2018-04-01T00:00:00",
+           "daily": 269.07,
+           "hourly": 33.63,
+           "otx15": 50.45,
+           "otx2": 67.26,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2019-03-31T00:00:00",
+           "daily": 277.14,
+           "hourly": 34.64,
+           "otx15": 51.96,
+           "otx2": 69.28,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2020-03-29T00:00:00",
+           "daily": 285.45,
+           "hourly": 35.68,
+           "otx15": 53.52,
+           "otx2": 71.36,
+           "weekly": 0,
+           "min_hours": 0
+          }
+         ]
+        },
+        "SI": {
+         "name": "Stand-in",
+         "abbr": "SI",
+         "article": "D101",
+         "union": "UBCP/ACTRA",
+         "contract": "BCMPA",
+         "description": "",
+         "type": "Film/TV",
+         "rates": [
+          {
+           "date": "2017-04-02T00:00:00",
+           "daily": 204.87,
+           "hourly": 25.61,
+           "otx15": 38.42,
+           "otx2": 51.22,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2018-04-01T00:00:00",
+           "daily": 211.02,
+           "hourly": 26.38,
+           "otx15": 39.57,
+           "otx2": 52.76,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2019-03-31T00:00:00",
+           "daily": 217.35,
+           "hourly": 27.17,
+           "otx15": 40.76,
+           "otx2": 54.34,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2020-03-29T00:00:00",
+           "daily": 223.87,
+           "hourly": 27.98,
+           "otx15": 41.97,
+           "otx2": 55.96,
+           "weekly": 0,
+           "min_hours": 0
+          }
+         ]
+        },
+        "GBP": {
+         "name": "General Background Performer",
+         "abbr": "GBP",
+         "article": "D101",
+         "union": "UBCP/ACTRA",
+         "contract": "BCMPA",
+         "description": "",
+         "type": "Film/TV",
+         "rates": [
+          {
+           "date": "2017-04-02T00:00:00",
+           "daily": 194.65,
+           "hourly": 24.33,
+           "otx15": 36.5,
+           "otx2": 48.66,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2018-04-01T00:00:00",
+           "daily": 200.49,
+           "hourly": 25.06,
+           "otx15": 37.59,
+           "otx2": 50.12,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2019-03-31T00:00:00",
+           "daily": 206.5,
+           "hourly": 25.81,
+           "otx15": 38.72,
+           "otx2": 51.62,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2020-03-29T00:00:00",
+           "daily": 212.7,
+           "hourly": 26.59,
+           "otx15": 39.89,
+           "otx2": 53.18,
+           "weekly": 0,
+           "min_hours": 0
+          }
+         ]
+        },
+        "PD": {
+         "name": "Photographic Double",
+         "abbr": "PD",
+         "article": "D101",
+         "union": "UBCP/ACTRA",
+         "contract": "BCMPA",
+         "description": "",
+         "type": "Film/TV",
+         "rates": [
+          {
+           "date": "2017-04-02T00:00:00",
+           "daily": 194.65,
+           "hourly": 24.33,
+           "otx15": 36.5,
+           "otx2": 48.66,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2018-04-01T00:00:00",
+           "daily": 200.49,
+           "hourly": 25.06,
+           "otx15": 37.59,
+           "otx2": 50.12,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2019-03-31T00:00:00",
+           "daily": 206.5,
+           "hourly": 25.81,
+           "otx15": 38.72,
+           "otx2": 51.62,
+           "weekly": 0,
+           "min_hours": 0
+          },
+          {
+           "date": "2020-03-29T00:00:00",
+           "daily": 212.7,
+           "hourly": 26.59,
+           "otx15": 39.89,
+           "otx2": 53.18,
+           "weekly": 0,
+           "min_hours": 0
+          }
+         ]
+        }
+       },
+       "contract": "BCMPA"
+      },
+      "E301": {
+       "article": "E301",
+       "description": "Fees - Dubbing (Per Hour of Work or Part Thereof)",
+       "start": 95,
+       "end": 112,
+       "categories": {
+        "PLF": {
+         "name": "Per Line Fee",
+         "abbr": "PLF",
+         "article": "E301",
+         "union": "UBCP/ACTRA",
+         "contract": "BCMPA",
+         "description": "",
+         "type": "Film/TV",
+         "rates": [
+          {
+           "date": "2020-03-29T00:00:00",
+           "daily": 4.61,
+           "hourly": 4.75,
+           "otx15": 4.89,
+           "otx2": 5.04,
+           "weekly": 0,
+           "min_hours": 0
+          }
+         ]
+        }
+       },
+       "contract": "BCMPA"
+      },
+      "E601": {
+       "article": "E601",
+       "description": "Doubling",
+       "start": 112,
+       "end": 117,
+       "categories": {
+        "FD": {
+         "name": "First Double",
+         "abbr": "FD",
+         "article": "E601",
+         "union": "UBCP/ACTRA",
+         "contract": "BCMPA",
+         "description": "",
+         "type": "Film/TV",
+         "rates": [
+          {
+           "date": "2017-04-02T00:00:00",
+           "daily": 59.8,
+           "hourly": 61.59,
+           "otx15": 63.44,
+           "otx2": 65.34,
+           "weekly": 0,
+           "min_hours": 0
+          }
+         ]
+        },
+        "SD": {
+         "name": "Subsequent Double",
+         "abbr": "SD",
+         "article": "E601",
+         "union": "UBCP/ACTRA",
+         "contract": "BCMPA",
+         "description": "",
+         "type": "Film/TV",
+         "rates": [
+          {
+           "date": "2017-04-02T00:00:00",
+           "daily": 39.19,
+           "hourly": 40.37,
+           "otx15": 41.58,
+           "otx2": 42.83,
+           "weekly": 0,
+           "min_hours": 0
+          }
+         ]
+        }
+       },
+       "contract": "BCMPA"
+      }
+     },
+     "jurisdiction": [
+      "BC"
+     ],
+     "csv": [
+      [
+       "2018-21 UBCP MASTER PRODUCTION AGREEMENT WAGE RATES"
+      ],
+      [
+       "ARTICLE B1 - MINIMUM FEES"
+      ],
+      [
+       "B101 Minimum Daily Fees (Per Performer/Per Program)"
+      ],
+      [
+       "Effective April 2, 2017",
+       "Daily Fee",
+       "Hourly Rate",
+       "Overtime Rate @ 1.5",
+       "Overtime Rate @ 2x"
+      ],
+      [
+       "Principal Actor/Stunt Performer",
+       693.8,
+       "86.73",
+       "130.10",
+       "173.46"
+      ],
+      [
+       "Group Singers/Dancers",
+       519.7,
+       "64.96",
+       "97.44",
+       "129.92"
+      ],
+      [
+       "Actor",
+       466.93,
+       "58.37",
+       "87.56",
+       "116.74"
+      ],
+      [
+       "Variety Principal",
+       1039.38,
+       "129.92",
+       "194.88",
+       "259.84"
+      ],
+      [
+       "Chorus Performer",
+       675.31,
+       "84.41",
+       "126.62",
+       "168.82"
+      ],
+      [
+       "Stunt Coordinator",
+       902.18,
+       "112.77",
+       "169.16",
+       "225.54"
+      ],
+      [
+       "Stunt Actor",
+       1036.73,
+       "129.59",
+       "194.39",
+       "259.18"
+      ],
+      [
+       "Choreographer",
+       693.8,
+       "86.73",
+       "130.10",
+       "173.46"
+      ],
+      [
+       "Vocal/Dialogue Coach",
+       1036.73,
+       "129.59",
+       "194.39",
+       "259.18"
+      ],
+      [
+       "Effective April 1, 2018",
+       "Daily Fee",
+       "Hourly Rate",
+       "Overtime Rate @ 1.5",
+       "Overtime Rate @ 2x"
+      ],
+      [
+       "Principal Actor/Stunt Performer",
+       714.61,
+       "89.33",
+       "134.00",
+       "178.66"
+      ],
+      [
+       "Group Singers/Dancers",
+       535.29,
+       "66.91",
+       "100.37",
+       "133.82"
+      ],
+      [
+       "Actor",
+       480.94,
+       "60.12",
+       "90.18",
+       "120.24"
+      ],
+      [
+       "Variety Principal",
+       1070.56,
+       "133.82",
+       "200.73",
+       "267.64"
+      ],
+      [
+       "Chorus Performer",
+       695.57,
+       "86.95",
+       "130.43",
+       "173.90"
+      ],
+      [
+       "Stunt Coordinator",
+       929.25,
+       "116.16",
+       "174.24",
+       "232.32"
+      ],
+      [
+       "Stunt Actor",
+       1067.83,
+       "133.48",
+       "200.22",
+       "266.96"
+      ],
+      [
+       "Choreographer",
+       714.61,
+       "89.33",
+       "134.00",
+       "178.66"
+      ],
+      [
+       "Vocal/Dialogue Coach",
+       1067.83,
+       "133.48",
+       "200.22",
+       "266.96"
+      ],
+      [
+       "Effective March 31, 2019",
+       "Daily Fee",
+       "Hourly Rate",
+       "Overtime Rate @ 1.5",
+       "Overtime Rate @ 2x"
+      ],
+      [
+       "Principal Actor/Stunt Performer",
+       736.05,
+       "92.01",
+       "138.02",
+       "184.02"
+      ],
+      [
+       "Group Singers/Dancers",
+       551.35,
+       "68.92",
+       "103.38",
+       "137.84"
+      ],
+      [
+       "Actor",
+       495.37,
+       "61.92",
+       "92.88",
+       "123.84"
+      ],
+      [
+       "Variety Principal",
+       1102.68,
+       "137.84",
+       "206.76",
+       "275.68"
+      ],
+      [
+       "Chorus Performer",
+       716.44,
+       "89.56",
+       "134.34",
+       "179.12"
+      ],
+      [
+       "Stunt Coordinator",
+       957.13,
+       "119.64",
+       "179.46",
+       "239.28"
+      ],
+      [
+       "Stunt Actor",
+       1099.86,
+       "137.48",
+       "206.22",
+       "274.96"
+      ],
+      [
+       "Choreographer",
+       736.05,
+       "92.01",
+       "138.02",
+       "184.02"
+      ],
+      [
+       "Vocal/Dialogue Coach",
+       1099.86,
+       "137.48",
+       "206.22",
+       "274.96"
+      ],
+      [
+       "2018-21 UBCP MASTER PRODUCTION AGREEMENT WAGE RATES"
+      ],
+      [
+       "B101 Minimum Daily Fees (Per Performer/Per Program) (continued)"
+      ],
+      [
+       "Effective March 29, 2020",
+       "Daily Fee",
+       "Hourly Rate",
+       "Overtime Rate @ 1.5",
+       "Overtime Rate @ 2x"
+      ],
+      [
+       "Principal Actor/Stunt Performer",
+       758.13,
+       "94.77",
+       "142.16",
+       "189.54"
+      ],
+      [
+       "Group Singers/Dancers",
+       567.89,
+       "70.99",
+       "106.49",
+       "141.98"
+      ],
+      [
+       "Actor",
+       510.23,
+       "63.78",
+       "95.67",
+       "127.56"
+      ],
+      [
+       "Variety Principal",
+       1135.76,
+       "141.97",
+       "212.96",
+       "283.94"
+      ],
+      [
+       "Chorus Performer",
+       737.93,
+       "92.24",
+       "138.36",
+       "184.48"
+      ],
+      [
+       "Stunt Coordinator",
+       985.84,
+       "123.23",
+       "184.85",
+       "246.46"
+      ],
+      [
+       "Stunt Actor",
+       1132.86,
+       "141.61",
+       "212.42",
+       "283.22"
+      ],
+      [
+       "Choreographer",
+       758.13,
+       "94.77",
+       "142.16",
+       "189.54"
+      ],
+      [
+       "Vocal/Dialogue Coach",
+       1132.86,
+       "141.61",
+       "212.42",
+       "283.22"
+      ],
+      [
+       "B104 Minimum Fees for Off-Camera Performers and Lip Synchronization in Programs (Per Program)"
+      ],
+      [
+       "Effective April 2, 2017",
+       "Daily Fee",
+       "Hourly Fee",
+       "Overtime Rate @ 1.5",
+       "Included Work Hours"
+      ],
+      [
+       "Effective April 1, 2018",
+       "Daily Fee",
+       "Hourly Fee",
+       "Overtime Rate @ 1.5",
+       "Included Work Hours"
+      ],
+      [
+       "Effective March 31, 2019",
+       "Daily Fee",
+       "Hourly Fee",
+       "Overtime Rate @ 1.5",
+       "Included Work Hours"
+      ],
+      [
+       "Effective March 29, 2020",
+       "Daily Fee",
+       "Hourly Fee",
+       "Overtime Rate @ 1.5",
+       "Included Work Hours"
+      ],
+      [
+       "2018-21 UBCP MASTER PRODUCTION AGREEMENT WAGE RATES"
+      ],
+      [
+       "B105 Minimum Fees for Off-Camera Narrators and Commentators in Programs (Per Program)"
+      ],
+      [
+       "Effective 4/2/2017",
+       "Effective 4/1/2018",
+       "Effective 3/31/2019",
+       "Effective 3/29/2020"
+      ],
+      [
+       "B106 Billboards and Bumpers"
+      ],
+      [
+       "Effective 4/2/2017",
+       "Effective 4/1/2018",
+       "Effective 3/31/2019",
+       "Effective 3/29/2020"
+      ],
+      [
+       "Off-Camera Performers and Group"
+      ],
+      [
+       "B107 Public Service Announcements"
+      ],
+      [
+       "Effective 4/2/2017",
+       "Effective 4/1/2018",
+       "Effective 3/31/2019",
+       "Effective 3/29/2020",
+       "Included Work Hours"
+      ],
+      [
+       "On-Camera Performer",
+       693.8,
+       "714.61",
+       "736.05",
+       "758.13",
+       "8"
+      ],
+      [
+       "Off-Camera Performers and Group"
+      ],
+      [
+       "Singers",
+       485.71,
+       "500.28",
+       "515.29",
+       "530.75",
+       "4"
+      ],
+      [
+       "Hourly Rate in excess of included"
+      ],
+      [
+       "work time up to and including 8th"
+      ],
+      [
+       "B108 Interstitial - Rates"
+      ],
+      [
+       "Effective 4/2/2017",
+       "Effective 4/1/2018",
+       "Effective 3/31/2019",
+       "Effective 3/29/2020"
+      ],
+      [
+       "Per 10 minutes of finished recording"
+      ],
+      [
+       "Hourly Rate for additional"
+      ],
+      [
+       "2018-21 UBCP MASTER PRODUCTION AGREEMENT WAGE RATES"
+      ],
+      [
+       "B109 Series Theme Music"
+      ],
+      [
+       "Group Singers",
+       "Daily Fee",
+       "Hourly Fee",
+       "Overtime Rate @ 1.5",
+       "Included Work Hours"
+      ],
+      [
+       "ARTICLE D1 - MINIMUM FEES FOR QUALIFIED BACKGROUND PERFORMERS"
+      ],
+      [
+       "D101 Minimum Daily Fees (Per Qualified Background Performer)"
+      ],
+      [
+       "Effective April 2, 2017",
+       "Daily Fee",
+       "Hourly Rate",
+       "Overtime Rate @ 1.5",
+       "Overtime Rate @ 2x"
+      ],
+      [
+       "Stand-in",
+       204.87,
+       "25.61",
+       "38.42",
+       "51.22"
+      ],
+      [
+       "General Background Performer",
+       194.65,
+       "24.33",
+       "36.50",
+       "48.66"
+      ],
+      [
+       "Special Ability Background Performer",
+       261.23,
+       "32.65",
+       "48.98",
+       "65.30"
+      ],
+      [
+       "Photographic Double",
+       194.65,
+       "24.33",
+       "36.50",
+       "48.66"
+      ],
+      [
+       "Effective April 1, 2018",
+       "Daily Fee",
+       "Hourly Rate",
+       "Overtime Rate @ 1.5",
+       "Overtime Rate @ 2x"
+      ],
+      [
+       "Stand-in",
+       211.02,
+       "26.38",
+       "39.57",
+       "52.76"
+      ],
+      [
+       "General Background Performer",
+       200.49,
+       "25.06",
+       "37.59",
+       "50.12"
+      ],
+      [
+       "Special Ability Background Performer",
+       269.07,
+       "33.63",
+       "50.45",
+       "67.26"
+      ],
+      [
+       "Photographic Double",
+       200.49,
+       "25.06",
+       "37.59",
+       "50.12"
+      ],
+      [
+       "2018-21 UBCP MASTER PRODUCTION AGREEMENT WAGE RATES"
+      ],
+      [
+       "D101 Minimum Daily Fees (Per Qualified Background Performer) (continued)"
+      ],
+      [
+       "Effective March 31, 2019",
+       "Daily Fee",
+       "Hourly Rate",
+       "Overtime Rate @ 1.5",
+       "Overtime Rate @ 2x"
+      ],
+      [
+       "Stand-in",
+       217.35,
+       "27.17",
+       "40.76",
+       "54.34"
+      ],
+      [
+       "General Background Performer",
+       206.5,
+       "25.81",
+       "38.72",
+       "51.62"
+      ],
+      [
+       "Special Ability Background Performer",
+       277.14,
+       "34.64",
+       "51.96",
+       "69.28"
+      ],
+      [
+       "Photographic Double",
+       206.5,
+       "25.81",
+       "38.72",
+       "51.62"
+      ],
+      [
+       "Effective March 29, 2020",
+       "Daily Fee",
+       "Hourly Rate",
+       "Overtime Rate @ 1.5",
+       "Overtime Rate @ 2x"
+      ],
+      [
+       "Stand-in",
+       223.87,
+       "27.98",
+       "41.97",
+       "55.96"
+      ],
+      [
+       "General Background Performer",
+       212.7,
+       "26.59",
+       "39.89",
+       "53.18"
+      ],
+      [
+       "Special Ability Background Performer",
+       285.45,
+       "35.68",
+       "53.52",
+       "71.36"
+      ],
+      [
+       "Photographic Double",
+       212.7,
+       "26.59",
+       "39.89",
+       "53.18"
+      ],
+      [
+       "SECTION E - MINIMUM FEES FOR PERFORMERS IN DUBBING"
+      ],
+      [
+       "E301 Fees - Dubbing (Per Hour of Work or Part Thereof)"
+      ],
+      [
+       "Hours",
+       "Effective 4/2/2017",
+       "Effective 4/1/2018",
+       "Effective 3/31/2019",
+       "Effective 3/29/2020"
+      ],
+      [
+       "1",
+       "164.82",
+       "169.76",
+       "174.85",
+       "180.10"
+      ],
+      [
+       "2",
+       "239.53",
+       "246.72",
+       "254.12",
+       "261.74"
+      ],
+      [
+       "3",
+       "315.82",
+       "325.29",
+       "335.05",
+       "345.10"
+      ],
+      [
+       "3.5",
+       "353.98",
+       "364.60",
+       "375.54",
+       "386.81"
+      ],
+      [
+       "4",
+       "392.14",
+       "403.90",
+       "416.02",
+       "428.50"
+      ],
+      [
+       "4.5",
+       "428.75",
+       "441.61",
+       "454.86",
+       "468.51"
+      ],
+      [
+       "5",
+       "466.92",
+       "480.93",
+       "495.36",
+       "510.22"
+      ],
+      [
+       "5.5",
+       "505.06",
+       "520.21",
+       "535.82",
+       "551.89"
+      ],
+      [
+       "6",
+       "543.18",
+       "559.48",
+       "576.26",
+       "593.55"
+      ],
+      [
+       "6.5",
+       "581.35",
+       "598.79",
+       "616.75",
+       "635.25"
+      ],
+      [
+       "7",
+       "619.50",
+       "638.09",
+       "657.23",
+       "676.95"
+      ],
+      [
+       "7.5",
+       "657.61",
+       "677.34",
+       "697.66",
+       "718.59"
+      ],
+      [
+       "8",
+       "695.77",
+       "716.64",
+       "738.14",
+       "760.28"
+      ],
+      [
+       "Each additional hour, calculated in one-quarter (1/4) hour units of work",
+       113.95,
+       "117.37",
+       "120.89",
+       "124.52"
+      ],
+      [
+       "Per Line Fee",
+       4.61,
+       "4.75",
+       "4.89",
+       "5.04"
+      ],
+      [
+       "E601 Doubling"
+      ],
+      [
+       "Effective 4/2/2017",
+       "Effective 4/1/2018",
+       "Effective 3/31/2019",
+       "Effective 3/29/2020"
+      ],
+      [
+       "First Double",
+       59.8,
+       "61.59",
+       "63.44",
+       "65.34"
+      ],
+      [
+       "Second and Each"
+      ],
+      [
+       "Subsequent Double",
+       39.19,
+       "40.37",
+       "41.58",
+       "42.83"
+      ]
+     ]
+    }
+   }
+  }
+ },
+ "description": "",
+ "juristiction": [
+  "BC"
+ ]
+}
  ]
 }
