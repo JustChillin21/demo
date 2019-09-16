@@ -1,161 +1,31 @@
-{ "TS-2017CAOS": {
-  "title": "Chilling Adventures Of Sabrina",
-  "type": "TV Series",
-  "season": {
-   "02": {}
+{
+ "FF-2019DOAS": {
+  "title": "Dreams Of A Singer",
+  "type": "Feature Film",
+  "director": {
+   "director": "",
+   "first_ad": ""
   },
   "exec_producers": {
-   "exec_producer": "Roberto Aguirre-Sacasa, Lee Toland Krieger, Greg Berlanti, Sarah Schechter, Jon Goldwater",
-   "co_exec_producer": null
-  },
-  "producers": {
-   "producer": "Ian Smith, Rob Seidenglanz",
-   "co_producer": null,
-   "line_producer": null
-  },
-  "phone_number": {
-   "office": "(604) 770-1299",
-   "accounting": null,
-   "emergency": null
-  },
-  "crew": {
-   "dop": "",
-   "lm": "Russell Hamilton",
-   "alm": "Brandon Colbourne, Melanie O'Donnell",
-   "pm": "Lucy Macleod, Ines Eisses (Um)",
-   "pc": "Hannah Lenahan"
-  },
-  "casting": {
-   "background": "Sandra Ken Freeman",
-   "principal": null,
-   "stunt": null
-  },
-  "production_sched": {
-   "start": "2019-05-17 00:00:00",
-   "wrap": "2020-02-20 00:00:00"
-  },
-  "email": {
-   "production": "sabrinaproductionoffice@gmail.com",
-   "accounting": null
-  },
-  "contract_name": "BCMPA",
-  "address": {
-   "streetNumber": "19714",
-   "suiteApt": null,
-   "streetName": "96Th Avenue",
-   "city": "Langley",
-   "province": "BC",
-   "postalCode": "V1M 3B9",
-   "country": "Canada",
-   "fullAddress": "19714 96Th Avenue, Langley, BC, V1M 3B9, Canada"
-  },
-  "production_company": "Wbtv Canada Productions Services Inc.",
-  "payroll_company": {
-   "name": "Payroll A",
-   "number": "1112222333",
-   "included": false
-  },
-  "studio": null,
-  "production_year": 2019,
-  "union": {
-   "abbr": "UBCP/ACTRA",
-   "rep": null
-  },
-  "pid": "TS-2017CAOS",
-  "currently_filming": true
- },
- "TS-2014LOT": {
-  "title": "Legends Of Tomorrow",
-  "type": "TV Series",
-  "season": {
-   "05": {}
-  },
-  "exec_producers": {
-   "exec_producer": "Greg Berlanti, Sarah Schechter, Phil Klemmer, Vladimir Stefoff, Keto Shimizu, Grainne Godfree, James Eagan",
+   "exec_producer": null,
    "co_exec_producer": null
   },
   "producers": {
    "producer": null,
-   "co_producer": null,
+   "co_producer": "Terry Thandi",
    "line_producer": null
   },
   "phone_number": {
-   "office": "(604) 639-1855",
+   "office": "(604) 339-4083",
    "accounting": null,
    "emergency": null
   },
   "crew": {
    "dop": "",
-   "lm": "Peter Klassen, Trevor Metz",
-   "alm": "Bonny Northcott, Cole Boughton, Andrew Marles",
-   "pm": "Catou Kearney, Jennifer Nick (Um)",
-   "pc": "Anita Truelove"
-  },
-  "casting": {
-   "background": "Sandra Ken Freeman",
-   "principal": null,
-   "stunt": null
-  },
-  "production_sched": {
-   "start": "2019-07-15 00:00:00",
-   "wrap": "2020-01-29 00:00:00"
-  },
-  "email": {
-   "production": "production@waveriderfilms.com",
-   "accounting": null
-  },
-  "contract_name": "BCMPA",
-  "address": {
-   "streetNumber": "8035",
-   "suiteApt": "200",
-   "streetName": "Glenwood Drive",
-   "city": "Burnaby",
-   "province": "BC",
-   "postalCode": "V3N 5C8",
-   "country": "Canada",
-   "fullAddress": "8035 Glenwood Drive, Suite 200, Burnaby, BC, V3N 5C8, Canada"
-  },
-  "production_company": "Silverstrand Production Services Inc.",
-  "payroll_company": {
-   "name": "Payroll A",
-   "number": "1112222333",
-   "included": false
-  },
-  "studio": null,
-  "production_year": 2019,
-  "union": {
-   "abbr": "UBCP/ACTRA",
-   "rep": null
-  },
-  "pid": "TS-2014LOT",
-  "currently_filming": true
- },
- "TS-2018NAEW": {
-  "title": "Nancy Drew",
-  "type": "TV Series",
-  "season": {
-   "01": {}
-  },
-  "exec_producers": {
-   "exec_producer": "Stephanie Savage, Josh Schwartz, Noga Landau, Melinda Hsu Taylor",
-   "co_exec_producer": "Larry Teng"
-  },
-  "producers": {
-   "producer": "Lily Hui",
-   "co_producer": null,
-   "line_producer": null
-  },
-  "phone_number": {
-   "office": "(604) 983-5544",
-   "accounting": null,
-   "emergency": null
-  },
-  "crew": {
-   "dop": "",
-   "lm": "Heather Vedan, Rob Amar",
-   "alm": "Bob Mcquarrie, Michael Mcaree, John Macculloch",
-   "pm": "George Horie",
-   "pc": "Steven Merk"
+   "lm": "Terry Thandi",
+   "alm": null,
+   "pm": "Sheela Dodd",
+   "pc": null
   },
   "casting": {
    "background": null,
@@ -163,25 +33,25 @@
    "stunt": null
   },
   "production_sched": {
-   "start": "2019-07-22 00:00:00",
-   "wrap": "2019-12-09 00:00:00"
+   "start": "2019-07-27 00:00:00",
+   "wrap": "2019-10-31 00:00:00"
   },
   "email": {
-   "production": "nancydrewprodoffice@gmail.com",
+   "production": "dreamsinger38@yahoo.com",
    "accounting": null
   },
   "contract_name": "BCMPA",
   "address": {
-   "streetNumber": "555",
-   "suiteApt": "210",
-   "streetName": "Brooksbank Avenue, Bld. 10",
-   "city": "North Vancouver",
+   "streetNumber": "4974",
+   "suiteApt": "231",
+   "streetName": "Kingsway",
+   "city": "Burnaby",
    "province": "BC",
-   "postalCode": "V7J 3S5",
+   "postalCode": "V5H 4M9",
    "country": "Canada",
-   "fullAddress": "555 Brooksbank Avenue, Bld. 10, Suite 210, North Vancouver, BC, V7J 3S5, Canada"
+   "fullAddress": "4974 Kingsway, Suite 231, Burnaby, BC, V5H 4M9, Canada"
   },
-  "production_company": "Ultra Productions Inc.",
+  "production_company": "Metrotown Media Productions",
   "payroll_company": {
    "name": "Payroll A",
    "number": "1112222333",
@@ -193,35 +63,36 @@
    "abbr": "UBCP/ACTRA",
    "rep": null
   },
-  "pid": "TS-2018NAEW",
+  "pid": "FF-2019DOAS",
   "currently_filming": true
  },
- "TS-2017PBB": {
-  "title": "Project Blue Book",
-  "type": "TV Series",
-  "season": {
-   "02": {}
+ "FF-2019LOED": {
+  "title": "Love Guaranteed",
+  "type": "Feature Film",
+  "director": {
+   "director": "",
+   "first_ad": ""
   },
   "exec_producers": {
-   "exec_producer": "Robert Zemeckus, Jack Rapke, Jacqueline Levine, Sean Jablonski",
+   "exec_producer": null,
    "co_exec_producer": null
   },
   "producers": {
-   "producer": "Cecil O'Connor",
+   "producer": "Chris Foss",
    "co_producer": null,
    "line_producer": null
   },
   "phone_number": {
-   "office": "(604) 566-8322",
+   "office": "(604) 395-1131",
    "accounting": null,
    "emergency": null
   },
   "crew": {
    "dop": "",
-   "lm": "Jina Johnson, Nicole Chartrand",
-   "alm": "Graeme Blatherwick, Dustin Shea, Jitka Dermiskova",
-   "pm": "Christina Toy",
-   "pc": "Corine Buffel"
+   "lm": null,
+   "alm": null,
+   "pm": "Galen Fletcher",
+   "pc": "Ron Pachkowski"
   },
   "casting": {
    "background": null,
@@ -229,25 +100,25 @@
    "stunt": null
   },
   "production_sched": {
-   "start": "2019-07-15 00:00:00",
-   "wrap": "2019-11-13 00:00:00"
+   "start": "2019-10-21 00:00:00",
+   "wrap": "2019-11-19 00:00:00"
   },
   "email": {
-   "production": "bluebookprod2@gmail.com",
+   "production": "lovegfilm@gmail.com",
    "accounting": null
   },
   "contract_name": "BCMPA",
   "address": {
-   "streetNumber": "4210",
-   "suiteApt": null,
-   "streetName": "Phillips Avenue",
+   "streetNumber": "3705",
+   "suiteApt": "100",
+   "streetName": "Willingdon Avenue",
    "city": "Burnaby",
    "province": "BC",
-   "postalCode": "V5A 2X2",
+   "postalCode": "V5G 3H3",
    "country": "Canada",
-   "fullAddress": "4210 Phillips Avenue, Burnaby, BC, V5A 2X2, Canada"
+   "fullAddress": "3705 Willingdon Avenue, Suite 100, Burnaby, BC, V5G 3H3, Canada"
   },
-  "production_company": "Blue Book 2 North Productions Inc.",
+  "production_company": "Love Guaranteed Productions Inc.",
   "payroll_company": {
    "name": "Payroll A",
    "number": "1112222333",
@@ -259,7 +130,141 @@
    "abbr": "UBCP/ACTRA",
    "rep": null
   },
-  "pid": "TS-2017PBB",
-  "currently_filming": true
+  "pid": "FF-2019LOED",
+  "currently_filming": false
  },
+ "FF-2019SNES": {
+  "title": "Snake Eyes",
+  "type": "Feature Film",
+  "director": {
+   "director": "",
+   "first_ad": ""
+  },
+  "exec_producers": {
+   "exec_producer": "Jeff Waxman, Brian Goldner, Stephen J. Davis, Greg Mooradian, Josh Feldman",
+   "co_exec_producer": null
+  },
+  "producers": {
+   "producer": "Lorenzo Di Bonaventura, Erik Howsam",
+   "co_producer": null,
+   "line_producer": null
+  },
+  "phone_number": {
+   "office": "(604) 637-1998",
+   "accounting": null,
+   "emergency": null
+  },
+  "crew": {
+   "dop": "",
+   "lm": "Ann Goobie",
+   "alm": "Paul Giordano, Sean Finnan",
+   "pm": "Adrienne Sol",
+   "pc": "Laura Livingstone"
+  },
+  "casting": {
+   "background": "Andrea Brown",
+   "principal": null,
+   "stunt": null
+  },
+  "production_sched": {
+   "start": "2019-10-15 00:00:00",
+   "wrap": "2019-12-06 00:00:00"
+  },
+  "email": {
+   "production": "seprodoffice@gmail.com",
+   "accounting": null
+  },
+  "contract_name": "BCMPA",
+  "address": {
+   "streetNumber": "2880",
+   "suiteApt": null,
+   "streetName": "Underhill Avenue",
+   "city": "Burnaby",
+   "province": "BC",
+   "postalCode": "V5A 4W2",
+   "country": "Canada",
+   "fullAddress": "2880 Underhill Avenue, Burnaby, BC, V5A 4W2, Canada"
+  },
+  "production_company": "Grackle Bird Productions Ltd.",
+  "payroll_company": {
+   "name": "Payroll A",
+   "number": "1112222333",
+   "included": false
+  },
+  "studio": null,
+  "production_year": 2019,
+  "union": {
+   "abbr": "UBCP/ACTRA",
+   "rep": null
+  },
+  "pid": "FF-2019SNES",
+  "currently_filming": false
+ },
+ "FF-2019TLV": {
+  "title": "The Last Victim",
+  "type": "Feature Film",
+  "director": {
+   "director": "",
+   "first_ad": ""
+  },
+  "exec_producers": {
+   "exec_producer": null,
+   "co_exec_producer": null
+  },
+  "producers": {
+   "producer": "Naveen A. Chathapuram, Todd Berger, Charles Leslie, Graem Luis",
+   "co_producer": null,
+   "line_producer": null
+  },
+  "phone_number": {
+   "office": "(778) 738-8291",
+   "accounting": null,
+   "emergency": null
+  },
+  "crew": {
+   "dop": "",
+   "lm": null,
+   "alm": null,
+   "pm": "Lori Welbourne",
+   "pc": "Suzanne Bourlon"
+  },
+  "casting": {
+   "background": null,
+   "principal": null,
+   "stunt": null
+  },
+  "production_sched": {
+   "start": "2019-10-16 00:00:00",
+   "wrap": "2019-11-17 00:00:00"
+  },
+  "email": {
+   "production": "thelastvictim2019@gmail.com",
+   "accounting": null
+  },
+  "contract_name": "BCMPA",
+  "address": {
+   "streetNumber": "3510",
+   "suiteApt": null,
+   "streetName": "Spectrum Court",
+   "city": "Kelowna",
+   "province": "BC",
+   "postalCode": "V1V 1A7",
+   "country": "Canada",
+   "fullAddress": "3510 Spectrum Court, Kelowna, BC, V1V 1A7, Canada"
+  },
+  "production_company": "Tlv Productions Llc.",
+  "payroll_company": {
+   "name": "Payroll A",
+   "number": "1112222333",
+   "included": false
+  },
+  "studio": null,
+  "production_year": 2019,
+  "union": {
+   "abbr": "UBCP/ACTRA",
+   "rep": null
+  },
+  "pid": "FF-2019TLV",
+  "currently_filming": false
+ }
 }
