@@ -1,14 +1,3607 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+ "Dreams Of A Singer": {
+  "title": "Dreams Of A Singer",
+  "type": "Feature Film",
+  "season": "None",
+  "episode": {
+   "number": "None",
+   "title": null,
+   "director": null,
+   "1st_ad": null,
+   "air_date": null
+  },
+  "exec_prod": {
+   "exec_producer": null,
+   "co_exec_producer": null
+  },
+  "producers": {
+   "producer": null,
+   "co_producer": "Terry Thandi",
+   "line_producer": null
+  },
+  "studio": null,
+  "phone_number": {
+   "office": "(604) 339-4083",
+   "accounting": null,
+   "emergency": null
+  },
+  "crew": {
+   "director": "",
+   "dop": "",
+   "1st_ad": "",
+   "lm": "Terry Thandi",
+   "alm": null,
+   "pm": "Sheela Dodd",
+   "pc": null
+  },
+  "casting": {
+   "bg": null,
+   "principal": null,
+   "stunt": null
+  },
+  "payroll_company": null,
+  "address": {
+   "streetNumber": "4974",
+   "suiteApt": "231",
+   "streetName": "Kingsway",
+   "city": "Burnaby",
+   "province": "BC",
+   "postalCode": "V5H 4M9",
+   "country": "Canada",
+   "fullAddress": "4974 Kingsway, Suite 231, Burnaby, BC, V5H 4M9, Canada"
+  },
+  "production_company": "Metrotown Media Productions",
+  "production_sched": {
+   "start": "2019-07-27 00:00:00",
+   "wrap": "2019-10-31 00:00:00"
+  },
+  "production_year": 2019,
+  "email": {
+   "production": "dreamsinger38@yahoo.com",
+   "accounting": null
+  },
+  "contract_name": "BCMPA",
+  "union": {
+   "abbr": "UBCP/ACTRA",
+   "rep": null
   }
+ },
+ "Godfrey": {
+  "title": "Godfrey",
+  "type": "Feature Film",
+  "season": "None",
+  "episode": {
+   "number": "None",
+   "title": null,
+   "director": null,
+   "1st_ad": null,
+   "air_date": null
+  },
+  "exec_prod": {
+   "exec_producer": "Geneva Wasserman",
+   "co_exec_producer": null
+  },
+  "producers": {
+   "producer": "Jason Bourque, Tim Marlowe, Jj Dubois",
+   "co_producer": null,
+   "line_producer": null
+  },
+  "studio": null,
+  "phone_number": {
+   "office": "(236) 521-0139",
+   "accounting": null,
+   "emergency": null
+  },
+  "crew": {
+   "director": "",
+   "dop": "",
+   "1st_ad": "",
+   "lm": "Shafik Chernovsky",
+   "alm": "Jerome Turner, James L. Head",
+   "pm": "Jacqueline Nguyen",
+   "pc": "Jessica Wadsworth"
+  },
+  "casting": {
+   "bg": "Laurie Pavon Solis",
+   "principal": null,
+   "stunt": null
+  },
+  "payroll_company": null,
+  "address": {
+   "streetNumber": "4300",
+   "suiteApt": "142",
+   "streetName": "North Fraser Way",
+   "city": "Burnaby",
+   "province": "BC",
+   "postalCode": "V5J 5J8",
+   "country": "Canada",
+   "fullAddress": "4300 North Fraser Way, Suite 142, Burnaby, BC, V5J 5J8, Canada"
+  },
+  "production_company": "Godfrey Production Inc.",
+  "production_sched": {
+   "start": "2019-08-06 00:00:00",
+   "wrap": "2019-09-09 00:00:00"
+  },
+  "production_year": 2019,
+  "email": {
+   "production": "godfreythefilm@gmail.com",
+   "accounting": null
+  },
+  "contract_name": "BCMPA",
+  "union": {
+   "abbr": "UBCP/ACTRA",
+   "rep": null
+  }
+ },
+ "Snake Eyes": {
+  "title": "Snake Eyes",
+  "type": "Feature Film",
+  "season": "None",
+  "episode": {
+   "number": "None",
+   "title": null,
+   "director": null,
+   "1st_ad": null,
+   "air_date": null
+  },
+  "exec_prod": {
+   "exec_producer": "Jeff Waxman, Brian Goldner, Stephen J. Davis, Lorenzo Di Bonaventura, Greg Mooradian, Erik Howsam, Josh Feldman",
+   "co_exec_producer": null
+  },
+  "producers": {
+   "producer": "Lorenzo Di Bonaventura, Erik Howsam",
+   "co_producer": null,
+   "line_producer": null
+  },
+  "studio": null,
+  "phone_number": {
+   "office": "(604) 637-1998",
+   "accounting": null,
+   "emergency": null
+  },
+  "crew": {
+   "director": "",
+   "dop": "",
+   "1st_ad": "",
+   "lm": "Ann Goobie",
+   "alm": "Paul Giordano, Sean Finnan",
+   "pm": "Adrienne Sol",
+   "pc": "Laura Livingstone"
+  },
+  "casting": {
+   "bg": null,
+   "principal": null,
+   "stunt": null
+  },
+  "payroll_company": null,
+  "address": {
+   "streetNumber": "2880",
+   "suiteApt": null,
+   "streetName": "Underhill Avenue",
+   "city": "Burnaby",
+   "province": "BC",
+   "postalCode": "V5A 4W2",
+   "country": "Canada",
+   "fullAddress": "2880 Underhill Avenue, Burnaby, BC, V5A 4W2, Canada"
+  },
+  "production_company": "Grackle Bird Productions Ltd.",
+  "production_sched": {
+   "start": "2019-10-15 00:00:00",
+   "wrap": "2019-12-06 00:00:00"
+  },
+  "production_year": 2019,
+  "email": {
+   "production": "seprodoffice@gmail.com",
+   "accounting": null
+  },
+  "contract_name": "BCMPA",
+  "union": {
+   "abbr": "UBCP/ACTRA",
+   "rep": null
+  }
+ },
+ "A Babysitters Guide To Monster Hunting": {
+  "title": "A Babysitters Guide To Monster Hunting",
+  "type": "New Media Feature",
+  "season": "None",
+  "episode": {
+   "number": "None",
+   "title": null,
+   "director": null,
+   "1st_ad": null,
+   "air_date": null
+  },
+  "exec_prod": {
+   "exec_producer": "Naia Cucukov, Tom Pollock, Ilona Herzberg",
+   "co_exec_producer": null
+  },
+  "producers": {
+   "producer": "Ivan Reitman, Amie Karp, Bob Huberman",
+   "co_producer": null,
+   "line_producer": null
+  },
+  "studio": null,
+  "phone_number": {
+   "office": "604 900 8755",
+   "accounting": null,
+   "emergency": null
+  },
+  "crew": {
+   "director": "",
+   "dop": "",
+   "1st_ad": "",
+   "lm": "David Tamkin",
+   "alm": "Amanda Hanson",
+   "pm": "Kathy Houghton",
+   "pc": "Mark Tachovsky, Josh Farnworth"
+  },
+  "casting": {
+   "bg": null,
+   "principal": null,
+   "stunt": null
+  },
+  "payroll_company": null,
+  "address": {
+   "streetNumber": "8820",
+   "suiteApt": null,
+   "streetName": "Northbrook Ct.",
+   "city": "Burnaby",
+   "province": "BC",
+   "postalCode": "V5J 5J1",
+   "country": "Canada",
+   "fullAddress": "8820 Northbrook Ct., Burnaby, BC, V5J 5J1, Canada"
+  },
+  "production_company": "Double Double Productions Ulc.",
+  "production_sched": {
+   "start": "2019-08-29 00:00:00",
+   "wrap": "2019-11-08 00:00:00"
+  },
+  "production_year": 2019,
+  "email": {
+   "production": "bgtmh.office@gmail.com",
+   "accounting": null
+  },
+  "contract_name": "BCMPA",
+  "union": {
+   "abbr": "UBCP/ACTRA",
+   "rep": null
+  }
+ },
+ "Christmas Chronicles 2": {
+  "title": "Christmas Chronicles 2",
+  "type": "New Media Feature",
+  "season": "None",
+  "episode": {
+   "number": "None",
+   "title": null,
+   "director": null,
+   "1st_ad": null,
+   "air_date": null
+  },
+  "exec_prod": {
+   "exec_producer": null,
+   "co_exec_producer": null
+  },
+  "producers": {
+   "producer": "Mark Radclliffe, Lyn Lucibello",
+   "co_producer": null,
+   "line_producer": null
+  },
+  "studio": null,
+  "phone_number": {
+   "office": "(604) 637-4802",
+   "accounting": null,
+   "emergency": null
+  },
+  "crew": {
+   "director": "",
+   "dop": "",
+   "1st_ad": "",
+   "lm": "Dan Kuzmenko",
+   "alm": "Jason Collier, Peter Drozdzik",
+   "pm": "Jessica Cheung",
+   "pc": "Eva Morgan"
+  },
+  "casting": {
+   "bg": null,
+   "principal": null,
+   "stunt": null
+  },
+  "payroll_company": null,
+  "address": {
+   "streetNumber": "2880",
+   "suiteApt": null,
+   "streetName": "Underhill Avenue, North Blk",
+   "city": "Burnaby",
+   "province": "BC",
+   "postalCode": "V5A 3C5",
+   "country": "Canada",
+   "fullAddress": "2880 Underhill Avenue, North Blk, Burnaby, BC, V5A 3C5, Canada"
+  },
+  "production_company": "Maple Syrup Productions Ulc.",
+  "production_sched": {
+   "start": "2019-09-23 00:00:00",
+   "wrap": "2019-12-19 00:00:00"
+  },
+  "production_year": 2019,
+  "email": {
+   "production": "prodhq@gmail.com",
+   "accounting": null
+  },
+  "contract_name": "BCMPA",
+  "union": {
+   "abbr": "UBCP/ACTRA",
+   "rep": null
+  }
+ },
+ "There'S Someone Inside Your House": {
+  "title": "There'S Someone Inside Your House",
+  "type": "New Media Feature",
+  "season": "None",
+  "episode": {
+   "number": "None",
+   "title": null,
+   "director": null,
+   "1st_ad": null,
+   "air_date": null
+  },
+  "exec_prod": {
+   "exec_producer": "Brendan Ferguson, Emily Morris, Judson Scott",
+   "co_exec_producer": null
+  },
+  "producers": {
+   "producer": "Shawn Levy, Dan Cohen, James Wan, Michael Clear",
+   "co_producer": null,
+   "line_producer": null
+  },
+  "studio": null,
+  "phone_number": {
+   "office": "(604) 453-4970",
+   "accounting": null,
+   "emergency": null
+  },
+  "crew": {
+   "director": "",
+   "dop": "",
+   "1st_ad": "",
+   "lm": "Michael Farias",
+   "alm": "Clayton Carroll, Steven Hearn",
+   "pm": "Nicole Oguchi",
+   "pc": "Terri Garbutt"
+  },
+  "casting": {
+   "bg": "Sandra Ken Freeman",
+   "principal": null,
+   "stunt": null
+  },
+  "payroll_company": null,
+  "address": {
+   "streetNumber": "3500",
+   "suiteApt": null,
+   "streetName": "Cornett Road, Bld. X",
+   "city": "Vancouver",
+   "province": "BC",
+   "postalCode": "V5M 2H5",
+   "country": "Canada",
+   "fullAddress": "3500 Cornett Road, Bld. X, Vancouver, BC, V5M 2H5, Canada"
+  },
+  "production_company": "Beaver Tail Productions Ulc.",
+  "production_sched": {
+   "start": "2019-08-22 00:00:00",
+   "wrap": "2019-10-11 00:00:00"
+  },
+  "production_year": 2019,
+  "email": {
+   "production": "someoneindahouse19@gmail.com",
+   "accounting": null
+  },
+  "contract_name": "BCMPA",
+  "union": {
+   "abbr": "UBCP/ACTRA",
+   "rep": null
+  }
+ },
+ "A Christmas Bride": {
+  "title": "A Christmas Bride",
+  "type": "TV Movie",
+  "season": "None",
+  "episode": {
+   "number": "None",
+   "title": null,
+   "director": null,
+   "1st_ad": null,
+   "air_date": null
+  },
+  "exec_prod": {
+   "exec_producer": "Shawn Williamson",
+   "co_exec_producer": null
+  },
+  "producers": {
+   "producer": "Jamie Goehring, Rob Lycar",
+   "co_producer": null,
+   "line_producer": null
+  },
+  "studio": null,
+  "phone_number": {
+   "office": "(604) 215-1656",
+   "accounting": null,
+   "emergency": null
+  },
+  "crew": {
+   "director": "",
+   "dop": "",
+   "1st_ad": "",
+   "lm": "David Angelski",
+   "alm": "Sean Jmaeff",
+   "pm": "Michelle Samuels",
+   "pc": "Heather Eschuk"
+  },
+  "casting": {
+   "bg": null,
+   "principal": null,
+   "stunt": null
+  },
+  "payroll_company": null,
+  "address": {
+   "streetNumber": "2484",
+   "suiteApt": null,
+   "streetName": "Renfrew Street",
+   "city": "Vancouver",
+   "province": "BC",
+   "postalCode": "V5M 3K2",
+   "country": "Canada",
+   "fullAddress": "2484 Renfrew Street, Vancouver, BC, V5M 3K2, Canada"
+  },
+  "production_company": "Christmas Bride (Van) Inc.",
+  "production_sched": {
+   "start": "2019-09-09 00:00:00",
+   "wrap": "2019-09-27 00:00:00"
+  },
+  "production_year": 2019,
+  "email": {
+   "production": "christmasbridemovie@gmail.com",
+   "accounting": null
+  },
+  "contract_name": "BCMPA",
+  "union": {
+   "abbr": "UBCP/ACTRA",
+   "rep": null
+  }
+ },
+ "A Gift To Cherish": {
+  "title": "A Gift To Cherish",
+  "type": "TV Movie",
+  "season": "None",
+  "episode": {
+   "number": "None",
+   "title": null,
+   "director": null,
+   "1st_ad": null,
+   "air_date": null
+  },
+  "exec_prod": {
+   "exec_producer": null,
+   "co_exec_producer": null
+  },
+  "producers": {
+   "producer": "Gilles Laplante",
+   "co_producer": null,
+   "line_producer": null
+  },
+  "studio": null,
+  "phone_number": {
+   "office": "(604) 873-1100",
+   "accounting": null,
+   "emergency": null
+  },
+  "crew": {
+   "director": "",
+   "dop": "",
+   "1st_ad": "",
+   "lm": "Kenneth Milloy",
+   "alm": "Jake Cohen",
+   "pm": "Mary Sparacio",
+   "pc": "Asha Gill"
+  },
+  "casting": {
+   "bg": null,
+   "principal": null,
+   "stunt": null
+  },
+  "payroll_company": null,
+  "address": {
+   "streetNumber": "3920",
+   "suiteApt": "201",
+   "streetName": "Norland Avenue",
+   "city": "Burnaby",
+   "province": "BC",
+   "postalCode": "V5G 4K7",
+   "country": "Canada",
+   "fullAddress": "3920 Norland Avenue, Suite 201, Burnaby, BC, V5G 4K7, Canada"
+  },
+  "production_company": "Pender Productions Inc.",
+  "production_sched": {
+   "start": "2019-08-12 00:00:00",
+   "wrap": "2019-08-31 00:00:00"
+  },
+  "production_year": 2019,
+  "email": {
+   "production": null,
+   "accounting": null
+  },
+  "contract_name": "BCMPA",
+  "union": {
+   "abbr": "UBCP/ACTRA",
+   "rep": null
+  }
+ },
+ "A Godwink Christmas: Alice & Jack": {
+  "title": "A Godwink Christmas: Alice & Jack",
+  "type": "TV Movie",
+  "season": "None",
+  "episode": {
+   "number": "None",
+   "title": null,
+   "director": null,
+   "1st_ad": null,
+   "air_date": null
+  },
+  "exec_prod": {
+   "exec_producer": "Kim Arnott, Ivan Hayden",
+   "co_exec_producer": null
+  },
+  "producers": {
+   "producer": null,
+   "co_producer": null,
+   "line_producer": null
+  },
+  "studio": null,
+  "phone_number": {
+   "office": "(604) 628-3150",
+   "accounting": null,
+   "emergency": null
+  },
+  "crew": {
+   "director": "",
+   "dop": "",
+   "1st_ad": "",
+   "lm": "Karen Zajac",
+   "alm": "Ken Poole",
+   "pm": "John Prince",
+   "pc": "Panta Mosleh"
+  },
+  "casting": {
+   "bg": null,
+   "principal": null,
+   "stunt": null
+  },
+  "payroll_company": null,
+  "address": {
+   "streetNumber": "2400",
+   "suiteApt": "601",
+   "streetName": "Boundary Road",
+   "city": "Burnaby",
+   "province": "BC",
+   "postalCode": "V5A 2Z6",
+   "country": "Canada",
+   "fullAddress": "2400 Boundary Road, Suite 601, Burnaby, BC, V5A 2Z6, Canada"
+  },
+  "production_company": "J&A Winks Productions Inc.",
+  "production_sched": {
+   "start": "2019-08-19 00:00:00",
+   "wrap": "2019-09-02 00:00:00"
+  },
+  "production_year": 2019,
+  "email": {
+   "production": "godwinkschristmas@gmail.com",
+   "accounting": null
+  },
+  "contract_name": "BCMPA",
+  "union": {
+   "abbr": "UBCP/ACTRA",
+   "rep": null
+  }
+ },
+ "A Sweet Christmas": {
+  "title": "A Sweet Christmas",
+  "type": "TV Movie",
+  "season": "None",
+  "episode": {
+   "number": "None",
+   "title": null,
+   "director": null,
+   "1st_ad": null,
+   "air_date": null
+  },
+  "exec_prod": {
+   "exec_producer": null,
+   "co_exec_producer": null
+  },
+  "producers": {
+   "producer": "Charles Cooper",
+   "co_producer": null,
+   "line_producer": null
+  },
+  "studio": null,
+  "phone_number": {
+   "office": "604 257 4720",
+   "accounting": null,
+   "emergency": null
+  },
+  "crew": {
+   "director": "",
+   "dop": "",
+   "1st_ad": "",
+   "lm": "Brent Canning",
+   "alm": "Brendon Olsen, John Mcintyre",
+   "pm": "Melissa Crich",
+   "pc": "Yale Kussin"
+  },
+  "casting": {
+   "bg": "Sara Brown",
+   "principal": null,
+   "stunt": null
+  },
+  "payroll_company": null,
+  "address": {
+   "streetNumber": "1950",
+   "suiteApt": null,
+   "streetName": "Franklin Street",
+   "city": "Vancouver",
+   "province": "BC",
+   "postalCode": "V5L 1R2",
+   "country": "Canada",
+   "fullAddress": "1950 Franklin Street, Vancouver, BC, V5L 1R2, Canada"
+  },
+  "production_company": null,
+  "production_sched": {
+   "start": "2019-08-06 00:00:00",
+   "wrap": "2019-08-26 00:00:00"
+  },
+  "production_year": 2019,
+  "email": {
+   "production": null,
+   "accounting": null
+  },
+  "contract_name": "BCMPA",
+  "union": {
+   "abbr": "UBCP/ACTRA",
+   "rep": null
+  }
+ },
+ "Christmas Detour": {
+  "title": "Christmas Detour",
+  "type": "TV Movie",
+  "season": "None",
+  "episode": {
+   "number": "None",
+   "title": null,
+   "director": null,
+   "1st_ad": null,
+   "air_date": null
+  },
+  "exec_prod": {
+   "exec_producer": "Shawn Williamson, Jamie Goehring",
+   "co_exec_producer": null
+  },
+  "producers": {
+   "producer": "Trevor Mcwhinney",
+   "co_producer": null,
+   "line_producer": null
+  },
+  "studio": null,
+  "phone_number": {
+   "office": "(604) 628-3090",
+   "accounting": null,
+   "emergency": null
+  },
+  "crew": {
+   "director": "",
+   "dop": "",
+   "1st_ad": "",
+   "lm": "Dan Mcwilliams",
+   "alm": "Andrew Suttar",
+   "pm": "Paula S. Kyan",
+   "pc": "Joey Setter"
+  },
+  "casting": {
+   "bg": "Stephanie Boeke",
+   "principal": null,
+   "stunt": null
+  },
+  "payroll_company": null,
+  "address": {
+   "streetNumber": "2400",
+   "suiteApt": null,
+   "streetName": "Boundary Road",
+   "city": "Burnaby",
+   "province": "BC",
+   "postalCode": "V5M 3Z3",
+   "country": "Canada",
+   "fullAddress": "2400 Boundary Road, Burnaby, BC, V5M 3Z3, Canada"
+  },
+  "production_company": null,
+  "production_sched": {
+   "start": "2019-07-24 00:00:00",
+   "wrap": "2019-08-13 00:00:00"
+  },
+  "production_year": 2019,
+  "email": {
+   "production": "detourprodoffice@gmail.com",
+   "accounting": null
+  },
+  "contract_name": "BCMPA",
+  "union": {
+   "abbr": "UBCP/ACTRA",
+   "rep": null
+  }
+ },
+ "Christmas In Evergreen: The Gift Of Time": {
+  "title": "Christmas In Evergreen: The Gift Of Time",
+  "type": "TV Movie",
+  "season": "None",
+  "episode": {
+   "number": "None",
+   "title": null,
+   "director": null,
+   "1st_ad": null,
+   "air_date": null
+  },
+  "exec_prod": {
+   "exec_producer": null,
+   "co_exec_producer": null
+  },
+  "producers": {
+   "producer": "Charles Cooper",
+   "co_producer": null,
+   "line_producer": null
+  },
+  "studio": null,
+  "phone_number": {
+   "office": "(604) 257-4720",
+   "accounting": null,
+   "emergency": null
+  },
+  "crew": {
+   "director": "",
+   "dop": "",
+   "1st_ad": "",
+   "lm": "Coleman Davie",
+   "alm": "Nicole Dodd",
+   "pm": "Jacquelyn Renner",
+   "pc": "Yale Kussin"
+  },
+  "casting": {
+   "bg": null,
+   "principal": null,
+   "stunt": null
+  },
+  "payroll_company": null,
+  "address": {
+   "streetNumber": "1950",
+   "suiteApt": null,
+   "streetName": "Franklin Street",
+   "city": "Vancouver",
+   "province": "BC",
+   "postalCode": "V5L 1R2",
+   "country": "Canada",
+   "fullAddress": "1950 Franklin Street, Vancouver, BC, V5L 1R2, Canada"
+  },
+  "production_company": "Evergreen Productions 3 Ltd.",
+  "production_sched": {
+   "start": "2019-09-03 00:00:00",
+   "wrap": "2019-09-20 00:00:00"
+  },
+  "production_year": 2019,
+  "email": {
+   "production": null,
+   "accounting": null
+  },
+  "contract_name": "BCMPA",
+  "union": {
+   "abbr": "UBCP/ACTRA",
+   "rep": null
+  }
+ },
+ "Doggone Christmas": {
+  "title": "Doggone Christmas",
+  "type": "TV Movie",
+  "season": "None",
+  "episode": {
+   "number": "None",
+   "title": null,
+   "director": null,
+   "1st_ad": null,
+   "air_date": null
+  },
+  "exec_prod": {
+   "exec_producer": "Shawn Williamson, Jamie Goehring",
+   "co_exec_producer": null
+  },
+  "producers": {
+   "producer": "Trevor Mcwhinney",
+   "co_producer": null,
+   "line_producer": null
+  },
+  "studio": null,
+  "phone_number": {
+   "office": "(604) 628-3090",
+   "accounting": null,
+   "emergency": null
+  },
+  "crew": {
+   "director": "",
+   "dop": "",
+   "1st_ad": "",
+   "lm": "Dan Mcwilliams",
+   "alm": "Erin Prachun",
+   "pm": "Paula S. Kyan",
+   "pc": "Joey Setter"
+  },
+  "casting": {
+   "bg": null,
+   "principal": null,
+   "stunt": null
+  },
+  "payroll_company": null,
+  "address": {
+   "streetNumber": "2400",
+   "suiteApt": null,
+   "streetName": "Boundary Road",
+   "city": "Burnaby",
+   "province": "BC",
+   "postalCode": "V5M 3Z3",
+   "country": "Canada",
+   "fullAddress": "2400 Boundary Road, Burnaby, BC, V5M 3Z3, Canada"
+  },
+  "production_company": "Doggone Productions Inc.",
+  "production_sched": {
+   "start": "2019-08-26 00:00:00",
+   "wrap": "2019-09-13 00:00:00"
+  },
+  "production_year": 2019,
+  "email": {
+   "production": "doggoneprodoffice@gmail.com",
+   "accounting": null
+  },
+  "contract_name": "BCMPA",
+  "union": {
+   "abbr": "UBCP/ACTRA",
+   "rep": null
+  }
+ },
+ "Lady Death": {
+  "title": "Lady Death",
+  "type": "TV Movie",
+  "season": "None",
+  "episode": {
+   "number": "None",
+   "title": null,
+   "director": null,
+   "1st_ad": null,
+   "air_date": null
+  },
+  "exec_prod": {
+   "exec_producer": null,
+   "co_exec_producer": null
+  },
+  "producers": {
+   "producer": null,
+   "co_producer": null,
+   "line_producer": null
+  },
+  "studio": null,
+  "phone_number": {
+   "office": "(604) 420-2006",
+   "accounting": null,
+   "emergency": null
+  },
+  "crew": {
+   "director": "",
+   "dop": "",
+   "1st_ad": "",
+   "lm": null,
+   "alm": null,
+   "pm": "Joyce Sawa",
+   "pc": "Tiann Arnault"
+  },
+  "casting": {
+   "bg": null,
+   "principal": null,
+   "stunt": null
+  },
+  "payroll_company": null,
+  "address": {
+   "streetNumber": "2939",
+   "suiteApt": null,
+   "streetName": "Bainbridge Avenue",
+   "city": "Burnaby",
+   "province": "BC",
+   "postalCode": "V5A 2S9",
+   "country": "Canada",
+   "fullAddress": "2939 Bainbridge Avenue, Burnaby, BC, V5A 2S9, Canada"
+  },
+  "production_company": "Ld Productions Ltd.",
+  "production_sched": {
+   "start": "2019-09-23 00:00:00",
+   "wrap": "2019-10-12 00:00:00"
+  },
+  "production_year": 2019,
+  "email": {
+   "production": "ldprod20190@gmail.com",
+   "accounting": null
+  },
+  "contract_name": "BCMPA",
+  "union": {
+   "abbr": "UBCP/ACTRA",
+   "rep": null
+  }
+ },
+ "Love At Sunset Terrace": {
+  "title": "Love At Sunset Terrace",
+  "type": "TV Movie",
+  "season": "None",
+  "episode": {
+   "number": "None",
+   "title": null,
+   "director": null,
+   "1st_ad": null,
+   "air_date": null
+  },
+  "exec_prod": {
+   "exec_producer": null,
+   "co_exec_producer": null
+  },
+  "producers": {
+   "producer": "Gilles Laplante",
+   "co_producer": null,
+   "line_producer": null
+  },
+  "studio": null,
+  "phone_number": {
+   "office": "(604) 873-1100",
+   "accounting": null,
+   "emergency": null
+  },
+  "crew": {
+   "director": "",
+   "dop": "",
+   "1st_ad": "",
+   "lm": "Jamie Skelton",
+   "alm": "Al Dales",
+   "pm": "Richard Greenhalgh",
+   "pc": "Christopher Langford"
+  },
+  "casting": {
+   "bg": "La Hilts",
+   "principal": null,
+   "stunt": null
+  },
+  "payroll_company": null,
+  "address": {
+   "streetNumber": "3920",
+   "suiteApt": "201",
+   "streetName": "Norland Avenue",
+   "city": "Burnaby",
+   "province": "BC",
+   "postalCode": "V5G4K7",
+   "country": "Canada",
+   "fullAddress": "3920 Norland Avenue, Suite 201, Burnaby, BC, V5G4K7, Canada"
+  },
+  "production_company": "Rop Productions Inc.",
+  "production_sched": {
+   "start": "2019-08-26 00:00:00",
+   "wrap": "2019-09-11 00:00:00"
+  },
+  "production_year": 2019,
+  "email": {
+   "production": "reeloneproductionoffice@gmail.com",
+   "accounting": null
+  },
+  "contract_name": "BCMPA",
+  "union": {
+   "abbr": "UBCP/ACTRA",
+   "rep": null
+  }
+ },
+ "Martha'S Vineyard Mysteries 1": {
+  "title": "Martha'S Vineyard Mysteries 1",
+  "type": "TV Movie",
+  "season": "None",
+  "episode": {
+   "number": "None",
+   "title": null,
+   "director": null,
+   "1st_ad": null,
+   "air_date": null
+  },
+  "exec_prod": {
+   "exec_producer": null,
+   "co_exec_producer": null
+  },
+  "producers": {
+   "producer": null,
+   "co_producer": null,
+   "line_producer": null
+  },
+  "studio": null,
+  "phone_number": {
+   "office": "(250) 590-0137",
+   "accounting": null,
+   "emergency": null
+  },
+  "crew": {
+   "director": "",
+   "dop": "",
+   "1st_ad": "",
+   "lm": "Steve Kinghorn",
+   "alm": "Shaun Barry",
+   "pm": "Allen Lewis",
+   "pc": "Miles Gorovich"
+  },
+  "casting": {
+   "bg": null,
+   "principal": null,
+   "stunt": null
+  },
+  "payroll_company": null,
+  "address": {
+   "streetNumber": "2067",
+   "suiteApt": "201",
+   "streetName": "Cadboro Bay Road",
+   "city": "Victoria",
+   "province": "BC",
+   "postalCode": "V8R 5G4",
+   "country": "Canada",
+   "fullAddress": "2067 Cadboro Bay Road, Suite 201, Victoria, BC, V8R 5G4, Canada"
+  },
+  "production_company": "Martha Vm Productions (Van) Inc.",
+  "production_sched": {
+   "start": "2019-09-09 00:00:00",
+   "wrap": "2019-09-27 00:00:00"
+  },
+  "production_year": 2019,
+  "email": {
+   "production": "mvm.victoria2019@gmail.com",
+   "accounting": null
+  },
+  "contract_name": "BCMPA",
+  "union": {
+   "abbr": "UBCP/ACTRA",
+   "rep": null
+  }
+ },
+ "Match Up": {
+  "title": "Match Up",
+  "type": "TV Movie",
+  "season": "None",
+  "episode": {
+   "number": "None",
+   "title": null,
+   "director": null,
+   "1st_ad": null,
+   "air_date": null
+  },
+  "exec_prod": {
+   "exec_producer": "Shawn Williamson, Kevin Leeson",
+   "co_exec_producer": null
+  },
+  "producers": {
+   "producer": "Robyn Wiener",
+   "co_producer": null,
+   "line_producer": null
+  },
+  "studio": null,
+  "phone_number": {
+   "office": "(604) 215-1656",
+   "accounting": null,
+   "emergency": null
+  },
+  "crew": {
+   "director": "",
+   "dop": "",
+   "1st_ad": "",
+   "lm": "Christina Ollson",
+   "alm": "Sean Jmaeff",
+   "pm": "Robyn Wiener",
+   "pc": "Ellen Curhan"
+  },
+  "casting": {
+   "bg": null,
+   "principal": null,
+   "stunt": null
+  },
+  "payroll_company": null,
+  "address": {
+   "streetNumber": "2484",
+   "suiteApt": null,
+   "streetName": "Renfrew Street",
+   "city": "Vancouver",
+   "province": "BC",
+   "postalCode": "V5M 3K2",
+   "country": "Canada",
+   "fullAddress": "2484 Renfrew Street, Vancouver, BC, V5M 3K2, Canada"
+  },
+  "production_company": "Match Up Productions Ltd.",
+  "production_sched": {
+   "start": "2019-08-12 00:00:00",
+   "wrap": "2019-08-29 00:00:00"
+  },
+  "production_year": 2019,
+  "email": {
+   "production": "matchupthemovie2019@gmail.com",
+   "accounting": null
+  },
+  "contract_name": "BCMPA",
+  "union": {
+   "abbr": "UBCP/ACTRA",
+   "rep": null
+  }
+ },
+ "Merry Liddle Christmas": {
+  "title": "Merry Liddle Christmas",
+  "type": "TV Movie",
+  "season": "None",
+  "episode": {
+   "number": "None",
+   "title": null,
+   "director": null,
+   "1st_ad": null,
+   "air_date": null
+  },
+  "exec_prod": {
+   "exec_producer": null,
+   "co_exec_producer": null
+  },
+  "producers": {
+   "producer": "Charles Cooper",
+   "co_producer": null,
+   "line_producer": null
+  },
+  "studio": null,
+  "phone_number": {
+   "office": "(604) 257-4720",
+   "accounting": null,
+   "emergency": null
+  },
+  "crew": {
+   "director": "",
+   "dop": "",
+   "1st_ad": "",
+   "lm": "Brent Canning",
+   "alm": "Brendon Olsen",
+   "pm": "Melissa Crich",
+   "pc": "Yale Kussin"
+  },
+  "casting": {
+   "bg": null,
+   "principal": null,
+   "stunt": null
+  },
+  "payroll_company": null,
+  "address": {
+   "streetNumber": "1950",
+   "suiteApt": null,
+   "streetName": "Franklin Street",
+   "city": "Vancouver",
+   "province": "BC",
+   "postalCode": "V5L 1R2",
+   "country": "Canada",
+   "fullAddress": "1950 Franklin Street, Vancouver, BC, V5L 1R2, Canada"
+  },
+  "production_company": "Liddle Road Productions Ltd.",
+  "production_sched": {
+   "start": "2019-08-26 00:00:00",
+   "wrap": "2019-09-13 00:00:00"
+  },
+  "production_year": 2019,
+  "email": {
+   "production": null,
+   "accounting": null
+  },
+  "contract_name": "BCMPA",
+  "union": {
+   "abbr": "UBCP/ACTRA",
+   "rep": null
+  }
+ },
+ "Operation Varsity Blues": {
+  "title": "Operation Varsity Blues",
+  "type": "TV Movie",
+  "season": "None",
+  "episode": {
+   "number": "None",
+   "title": null,
+   "director": null,
+   "1st_ad": null,
+   "air_date": null
+  },
+  "exec_prod": {
+   "exec_producer": null,
+   "co_exec_producer": null
+  },
+  "producers": {
+   "producer": null,
+   "co_producer": null,
+   "line_producer": null
+  },
+  "studio": null,
+  "phone_number": {
+   "office": "604 637 9790",
+   "accounting": null,
+   "emergency": null
+  },
+  "crew": {
+   "director": "",
+   "dop": "",
+   "1st_ad": "",
+   "lm": "Jack Veldhuis",
+   "alm": "Wayne Toews",
+   "pm": "Christian Bruyere",
+   "pc": "Jim Mckeown"
+  },
+  "casting": {
+   "bg": "Laurie Pavon Solis",
+   "principal": null,
+   "stunt": null
+  },
+  "payroll_company": null,
+  "address": {
+   "streetNumber": "8180",
+   "suiteApt": null,
+   "streetName": "Winston Street",
+   "city": "Burnaby",
+   "province": "BC",
+   "postalCode": "V5A 2H5",
+   "country": "Canada",
+   "fullAddress": "8180 Winston Street, Burnaby, BC, V5A 2H5, Canada"
+  },
+  "production_company": null,
+  "production_sched": {
+   "start": "2019-08-07 00:00:00",
+   "wrap": "2019-08-28 00:00:00"
+  },
+  "production_year": 2019,
+  "email": {
+   "production": null,
+   "accounting": null
+  },
+  "contract_name": "BCMPA",
+  "union": {
+   "abbr": "UBCP/ACTRA",
+   "rep": null
+  }
+ },
+ "Ruby Herring Mysteries: Her Last Breath": {
+  "title": "Ruby Herring Mysteries: Her Last Breath",
+  "type": "TV Movie",
+  "season": "None",
+  "episode": {
+   "number": "None",
+   "title": null,
+   "director": null,
+   "1st_ad": null,
+   "air_date": null
+  },
+  "exec_prod": {
+   "exec_producer": null,
+   "co_exec_producer": null
+  },
+  "producers": {
+   "producer": "Charles Cooper",
+   "co_producer": null,
+   "line_producer": null
+  },
+  "studio": null,
+  "phone_number": {
+   "office": "604 255 4666",
+   "accounting": null,
+   "emergency": null
+  },
+  "crew": {
+   "director": "",
+   "dop": "",
+   "1st_ad": "",
+   "lm": "Brett Jolliffe",
+   "alm": "Alex Lemmon",
+   "pm": "Allen Lewis",
+   "pc": "C. Anna Alie"
+  },
+  "casting": {
+   "bg": null,
+   "principal": null,
+   "stunt": null
+  },
+  "payroll_company": null,
+  "address": {
+   "streetNumber": "1948",
+   "suiteApt": null,
+   "streetName": "Franklin Street",
+   "city": "Vancouver",
+   "province": "BC",
+   "postalCode": "V5L 1R2",
+   "country": "Canada",
+   "fullAddress": "1948 Franklin Street, Vancouver, BC, V5L 1R2, Canada"
+  },
+  "production_company": null,
+  "production_sched": {
+   "start": "2019-08-06 00:00:00",
+   "wrap": "2019-08-24 00:00:00"
+  },
+  "production_year": 2019,
+  "email": {
+   "production": null,
+   "accounting": null
+  },
+  "contract_name": "BCMPA",
+  "union": {
+   "abbr": "UBCP/ACTRA",
+   "rep": null
+  }
+ },
+ "Temporary Position": {
+  "title": "Temporary Position",
+  "type": "TV Movie",
+  "season": "None",
+  "episode": {
+   "number": "None",
+   "title": null,
+   "director": null,
+   "1st_ad": null,
+   "air_date": null
+  },
+  "exec_prod": {
+   "exec_producer": null,
+   "co_exec_producer": null
+  },
+  "producers": {
+   "producer": "Charles Cooper",
+   "co_producer": null,
+   "line_producer": null
+  },
+  "studio": null,
+  "phone_number": {
+   "office": "(604) 255-4666",
+   "accounting": null,
+   "emergency": null
+  },
+  "crew": {
+   "director": "",
+   "dop": "",
+   "1st_ad": "",
+   "lm": "John Knowlton",
+   "alm": "Anthony Wittrock",
+   "pm": "Tim Sereda",
+   "pc": "C. Anna Alie"
+  },
+  "casting": {
+   "bg": null,
+   "principal": null,
+   "stunt": null
+  },
+  "payroll_company": null,
+  "address": {
+   "streetNumber": "1948",
+   "suiteApt": null,
+   "streetName": "Franklin Street",
+   "city": "Vancouver",
+   "province": "BC",
+   "postalCode": "V5L 1R2",
+   "country": "Canada",
+   "fullAddress": "1948 Franklin Street, Vancouver, BC, V5L 1R2, Canada"
+  },
+  "production_company": "Temporary Road Productions Ltd.",
+  "production_sched": {
+   "start": "2019-08-19 00:00:00",
+   "wrap": "2019-09-08 00:00:00"
+  },
+  "production_year": 2019,
+  "email": {
+   "production": null,
+   "accounting": null
+  },
+  "contract_name": "BCMPA",
+  "union": {
+   "abbr": "UBCP/ACTRA",
+   "rep": null
+  }
+ },
+ "Nanny, The: Mission Canada": {
+  "title": "Nanny, The: Mission Canada",
+  "type": "TV Movie",
+  "season": "None",
+  "episode": {
+   "number": "None",
+   "title": null,
+   "director": null,
+   "1st_ad": null,
+   "air_date": null
+  },
+  "exec_prod": {
+   "exec_producer": null,
+   "co_exec_producer": null
+  },
+  "producers": {
+   "producer": "Andrew Williamson",
+   "co_producer": null,
+   "line_producer": null
+  },
+  "studio": null,
+  "phone_number": {
+   "office": "(778) 351-2090",
+   "accounting": null,
+   "emergency": null
+  },
+  "crew": {
+   "director": "",
+   "dop": "",
+   "1st_ad": "",
+   "lm": "Victor Sanchez",
+   "alm": "Nathan Lomax",
+   "pm": "Nancy Welsh",
+   "pc": "Brett Davies"
+  },
+  "casting": {
+   "bg": null,
+   "principal": null,
+   "stunt": null
+  },
+  "payroll_company": null,
+  "address": {
+   "streetNumber": "1851",
+   "suiteApt": null,
+   "streetName": "Keating Cross Road",
+   "city": "Saanichton",
+   "province": "BC",
+   "postalCode": "V8M 1W9",
+   "country": "Canada",
+   "fullAddress": "1851 Keating Cross Road, Saanichton, BC, V8M 1W9, Canada"
+  },
+  "production_company": "The Nanny Canada Production Inc.",
+  "production_sched": {
+   "start": "2019-09-04 00:00:00",
+   "wrap": "2019-10-04 00:00:00"
+  },
+  "production_year": 2019,
+  "email": {
+   "production": "thenannyvictoriaprodoffice@gmail.com",
+   "accounting": null
+  },
+  "contract_name": "BCMPA",
+  "union": {
+   "abbr": "UBCP/ACTRA",
+   "rep": null
+  }
+ },
+ "Upside Down Magic": {
+  "title": "Upside Down Magic",
+  "type": "TV Movie",
+  "season": "None",
+  "episode": {
+   "number": "None",
+   "title": null,
+   "director": null,
+   "1st_ad": null,
+   "air_date": null
+  },
+  "exec_prod": {
+   "exec_producer": "Michelle Nishikawa, Suzanne Farwell, Susan Cartsonis",
+   "co_exec_producer": null
+  },
+  "producers": {
+   "producer": "Drew Locke",
+   "co_producer": null,
+   "line_producer": null
+  },
+  "studio": null,
+  "phone_number": {
+   "office": "(604) 292-5230",
+   "accounting": null,
+   "emergency": null
+  },
+  "crew": {
+   "director": "",
+   "dop": "",
+   "1st_ad": "",
+   "lm": "Kirk Adamson",
+   "alm": "Cory Pioveson",
+   "pm": "Jill Christensen",
+   "pc": "Almaz Tadege, Nathan Tichenor"
+  },
+  "casting": {
+   "bg": null,
+   "principal": null,
+   "stunt": null
+  },
+  "payroll_company": null,
+  "address": {
+   "streetNumber": "2400",
+   "suiteApt": "602",
+   "streetName": "Boundary Road",
+   "city": "Burnaby",
+   "province": "BC",
+   "postalCode": "V5M 3Z3",
+   "country": "Canada",
+   "fullAddress": "2400 Boundary Road, Suite 602, Burnaby, BC, V5M 3Z3, Canada"
+  },
+  "production_company": "Bad Angel Productions Ltd.",
+  "production_sched": {
+   "start": "2019-08-19 00:00:00",
+   "wrap": "2019-09-27 00:00:00"
+  },
+  "production_year": 2019,
+  "email": {
+   "production": "udmprodoffice@gmail.com",
+   "accounting": null
+  },
+  "contract_name": "BCMPA",
+  "union": {
+   "abbr": "UBCP/ACTRA",
+   "rep": null
+  }
+ },
+ "You Light Up My Christmas": {
+  "title": "You Light Up My Christmas",
+  "type": "TV Movie",
+  "season": "None",
+  "episode": {
+   "number": "None",
+   "title": null,
+   "director": null,
+   "1st_ad": null,
+   "air_date": null
+  },
+  "exec_prod": {
+   "exec_producer": null,
+   "co_exec_producer": null
+  },
+  "producers": {
+   "producer": "Navid Soofi",
+   "co_producer": null,
+   "line_producer": null
+  },
+  "studio": null,
+  "phone_number": {
+   "office": "(236) 330-6030",
+   "accounting": null,
+   "emergency": null
+  },
+  "crew": {
+   "director": "",
+   "dop": "",
+   "1st_ad": "",
+   "lm": "Garrett Vandusen",
+   "alm": "Robert Bricker",
+   "pm": "Darren Robson, Navid Soofi",
+   "pc": "Jeff Desmarais"
+  },
+  "casting": {
+   "bg": null,
+   "principal": null,
+   "stunt": null
+  },
+  "payroll_company": null,
+  "address": {
+   "streetNumber": "2963",
+   "suiteApt": null,
+   "streetName": "Lake City Way",
+   "city": "Burnaby",
+   "province": "BC",
+   "postalCode": "V5A 2Z6",
+   "country": "Canada",
+   "fullAddress": "2963 Lake City Way, Burnaby, BC, V5A 2Z6, Canada"
+  },
+  "production_company": "Light Up Productions Inc.",
+  "production_sched": {
+   "start": "2019-08-26 00:00:00",
+   "wrap": "2019-09-12 00:00:00"
+  },
+  "production_year": 2019,
+  "email": {
+   "production": "novusmow@gmail.com",
+   "accounting": null
+  },
+  "contract_name": "BCMPA",
+  "union": {
+   "abbr": "UBCP/ACTRA",
+   "rep": null
+  }
+ },
+ "50 States Of Terror": {
+  "title": "50 States Of Terror",
+  "type": "New Media TV Movie",
+  "season": "None",
+  "episode": {
+   "number": "None",
+   "title": null,
+   "director": null,
+   "1st_ad": null,
+   "air_date": null
+  },
+  "exec_prod": {
+   "exec_producer": null,
+   "co_exec_producer": null
+  },
+  "producers": {
+   "producer": "Shawn Williamson",
+   "co_producer": null,
+   "line_producer": null
+  },
+  "studio": null,
+  "phone_number": {
+   "office": "(604) 628-3010",
+   "accounting": null,
+   "emergency": null
+  },
+  "crew": {
+   "director": "",
+   "dop": "",
+   "1st_ad": "",
+   "lm": null,
+   "alm": null,
+   "pm": "David Magee",
+   "pc": "Kathleen Whelan"
+  },
+  "casting": {
+   "bg": null,
+   "principal": null,
+   "stunt": null
+  },
+  "payroll_company": null,
+  "address": {
+   "streetNumber": "2400",
+   "suiteApt": null,
+   "streetName": "Boundary Road, 3Rd Floor",
+   "city": "Burnaby",
+   "province": "BC",
+   "postalCode": "V5M 3Z3",
+   "country": "Canada",
+   "fullAddress": "2400 Boundary Road, 3Rd Floor, Burnaby, BC, V5M 3Z3, Canada"
+  },
+  "production_company": "Fsof Productions Inc.",
+  "production_sched": {
+   "start": "2019-09-16 00:00:00",
+   "wrap": "2019-11-21 00:00:00"
+  },
+  "production_year": 2019,
+  "email": {
+   "production": "50statestv@gmail.com",
+   "accounting": null
+  },
+  "contract_name": "BCMPA",
+  "union": {
+   "abbr": "UBCP/ACTRA",
+   "rep": null
+  }
+ },
+ "A Million Little Things": {
+  "2": {
+   "title": "A Million Little Things",
+   "type": "TV Series",
+   "season": "02",
+   "episode": {
+    "number": "None",
+    "title": null,
+    "director": null,
+    "1st_ad": null,
+    "air_date": null
+   },
+   "exec_prod": {
+    "exec_producer": "James Griffiths, Dana Honor, Aaron Kaplan, Dj Nash, Nina Lopez-Corrado",
+    "co_exec_producer": null
+   },
+   "producers": {
+    "producer": "Chris Smirnoff",
+    "co_producer": null,
+    "line_producer": null
+   },
+   "studio": null,
+   "phone_number": {
+    "office": "(604) 398-6655",
+    "accounting": null,
+    "emergency": null
+   },
+   "crew": {
+    "director": "",
+    "dop": "",
+    "1st_ad": "",
+    "lm": "Sean Wolput, M. Ross Effler",
+    "alm": "Bruno P. Rosani, Mike Scorgie",
+    "pm": "Gigi Boyd",
+    "pc": "Lukasz Madziag, Shaun Mckinlay"
+   },
+   "casting": {
+    "bg": "Lisa Ratke",
+    "principal": null,
+    "stunt": null
+   },
+   "payroll_company": null,
+   "address": {
+    "streetNumber": "4200",
+    "suiteApt": "101",
+    "streetName": "North Fraser Way",
+    "city": "Burnaby",
+    "province": "BC",
+    "postalCode": "V5J 5K7",
+    "country": "Canada",
+    "fullAddress": "4200 North Fraser Way, Suite 101, Burnaby, BC, V5J 5K7, Canada"
+   },
+   "production_company": "Stage 49 Ltd.",
+   "production_sched": {
+    "start": "2019-06-19 00:00:00",
+    "wrap": "2020-02-19 00:00:00"
+   },
+   "production_year": 2019,
+   "email": {
+    "production": "stage49amlt@gmail.com",
+    "accounting": null
+   },
+   "contract_name": "BCMPA",
+   "union": {
+    "abbr": "UBCP/ACTRA",
+    "rep": null
+   }
+  }
+ },
+ "Arrow": {
+  "8": {
+   "title": "Arrow",
+   "type": "TV Series",
+   "season": "08",
+   "episode": {
+    "number": "None",
+    "title": null,
+    "director": null,
+    "1st_ad": null,
+    "air_date": null
+   },
+   "exec_prod": {
+    "exec_producer": "Greg Berlanti, Sarah Schechter, Wendy Mericle, Marc Guggenheim, Andrew Kreisberg, Beth Schwartz, Jill Blankenship",
+    "co_exec_producer": null
+   },
+   "producers": {
+    "producer": "Todd Pittson",
+    "co_producer": null,
+    "line_producer": null
+   },
+   "studio": null,
+   "phone_number": {
+    "office": "(604) 453-4720",
+    "accounting": null,
+    "emergency": null
+   },
+   "crew": {
+    "director": "",
+    "dop": "",
+    "1st_ad": "",
+    "lm": "William \"Bill\" Burns, Dan Carr",
+    "alm": "David Costello, Jay Kent, Carissa Roseborough",
+    "pm": "Donald Munro",
+    "pc": "Andy Hoang"
+   },
+   "casting": {
+    "bg": "Sandra Ken Freeman",
+    "principal": null,
+    "stunt": null
+   },
+   "payroll_company": null,
+   "address": {
+    "streetNumber": "3500",
+    "suiteApt": null,
+    "streetName": "Cornett Road",
+    "city": "Vancouver",
+    "province": "BC",
+    "postalCode": "V5M 2H5",
+    "country": "Canada",
+    "fullAddress": "3500 Cornett Road, Vancouver, BC, V5M 2H5, Canada"
+   },
+   "production_company": "Beckmark Production Services Inc.",
+   "production_sched": {
+    "start": "2019-07-11 00:00:00",
+    "wrap": "2019-11-14 00:00:00"
+   },
+   "production_year": 2019,
+   "email": {
+    "production": "info@arrowproductionoffice.com",
+    "accounting": null
+   },
+   "contract_name": "BCMPA",
+   "union": {
+    "abbr": "UBCP/ACTRA",
+    "rep": null
+   }
+  }
+ },
+ "Batwoman": {
+  "1": {
+   "title": "Batwoman",
+   "type": "TV Series",
+   "season": "01",
+   "episode": {
+    "number": "None",
+    "title": null,
+    "director": null,
+    "1st_ad": null,
+    "air_date": null
+   },
+   "exec_prod": {
+    "exec_producer": "Greg Berlanti, Geoff Johns, David Nutter, Sarah Schechter, Carolines Dries, Jae Marchant",
+    "co_exec_producer": null
+   },
+   "producers": {
+    "producer": null,
+    "co_producer": null,
+    "line_producer": null
+   },
+   "studio": null,
+   "phone_number": {
+    "office": "(604) 647-5613",
+    "accounting": null,
+    "emergency": null
+   },
+   "crew": {
+    "director": "",
+    "dop": "",
+    "1st_ad": "",
+    "lm": "Janet Mccairns, Matthew Hall",
+    "alm": "Steve Sauve, Tammie Barker, Hayley Read, Keith Lewis",
+    "pm": "Aren Ophoff, Florian Halbedl (Um)",
+    "pc": "Susan Crawford"
+   },
+   "casting": {
+    "bg": "Doreen Ferreira",
+    "principal": null,
+    "stunt": null
+   },
+   "payroll_company": null,
+   "address": {
+    "streetNumber": "8035",
+    "suiteApt": null,
+    "streetName": "Glenwood Drive-3Rd Floor",
+    "city": "Burnaby",
+    "province": "BC",
+    "postalCode": "V3N 5C8",
+    "country": "Canada",
+    "fullAddress": "8035 Glenwood Drive-3Rd Floor, Burnaby, BC, V3N 5C8, Canada"
+   },
+   "production_company": "Renraw Production Services Inc.",
+   "production_sched": {
+    "start": "2019-07-04 00:00:00",
+    "wrap": "2019-12-02 00:00:00"
+   },
+   "production_year": 2019,
+   "email": {
+    "production": "womangotham@gmail.com",
+    "accounting": null
+   },
+   "contract_name": "BCMPA",
+   "union": {
+    "abbr": "UBCP/ACTRA",
+    "rep": null
+   }
+  }
+ },
+ "Charmed": {
+  "2": {
+   "title": "Charmed",
+   "type": "TV Series",
+   "season": "02",
+   "episode": {
+    "number": "None",
+    "title": null,
+    "director": null,
+    "1st_ad": null,
+    "air_date": null
+   },
+   "exec_prod": {
+    "exec_producer": "Jessica O'Toole, Amy Rardin, Howard T. Owens Iii, Ben Silverman, Brad Silberling, Jennie Snyder Urman, Liz Kruger, Craig Shapiro, Stuart Gillard, Chris Anaka, Jeffery Lieber",
+    "co_exec_producer": null
+   },
+   "producers": {
+    "producer": "Lisa Towers, Joey Falco, Johanna Lee, Nicki Renna",
+    "co_producer": null,
+    "line_producer": null
+   },
+   "studio": null,
+   "phone_number": {
+    "office": "(604) 558-6133",
+    "accounting": null,
+    "emergency": null
+   },
+   "crew": {
+    "director": "",
+    "dop": "",
+    "1st_ad": "",
+    "lm": "Darryl Griffiths, Braden Jennings",
+    "alm": "Katie Kidd, Karen Esprez",
+    "pm": "Philip Pacaud",
+    "pc": "Lynne Spencer"
+   },
+   "casting": {
+    "bg": "Sandra Ken Freeman",
+    "principal": null,
+    "stunt": null
+   },
+   "payroll_company": null,
+   "address": {
+    "streetNumber": "888",
+    "suiteApt": null,
+    "streetName": "Se Marine Drive",
+    "city": "Vancouver",
+    "province": "BC",
+    "postalCode": "V5X 2V3",
+    "country": "Canada",
+    "fullAddress": "888 Se Marine Drive, Vancouver, BC, V5X 2V3, Canada"
+   },
+   "production_company": "First Cut Productions Inc.",
+   "production_sched": {
+    "start": "2019-07-24 00:00:00",
+    "wrap": "2020-04-16 00:00:00"
+   },
+   "production_year": 2019,
+   "email": {
+    "production": "charmedproductionoffice@gmail.com",
+    "accounting": null
+   },
+   "contract_name": "BCMPA",
+   "union": {
+    "abbr": "UBCP/ACTRA",
+    "rep": null
+   }
+  }
+ },
+ "Chilling Adventures Of Sabrina": {
+  "2": {
+   "title": "Chilling Adventures Of Sabrina",
+   "type": "TV Series",
+   "season": "02",
+   "episode": {
+    "number": "None",
+    "title": null,
+    "director": null,
+    "1st_ad": null,
+    "air_date": null
+   },
+   "exec_prod": {
+    "exec_producer": "Roberto Aguirre-Sacasa, Lee Toland Krieger, Greg Berlanti, Sarah Schechter, Jon Goldwater",
+    "co_exec_producer": null
+   },
+   "producers": {
+    "producer": "Ian Smith, Rob Seidenglanz",
+    "co_producer": null,
+    "line_producer": null
+   },
+   "studio": null,
+   "phone_number": {
+    "office": "(604) 770-1299",
+    "accounting": null,
+    "emergency": null
+   },
+   "crew": {
+    "director": "",
+    "dop": "",
+    "1st_ad": "",
+    "lm": "Russell Hamilton",
+    "alm": "Brandon Colbourne, Melanie O'Donnell",
+    "pm": "Lucy Macleod, Ines Eisses (Um)",
+    "pc": "Hannah Lenahan"
+   },
+   "casting": {
+    "bg": "Sandra Ken Freeman",
+    "principal": null,
+    "stunt": null
+   },
+   "payroll_company": null,
+   "address": {
+    "streetNumber": "19714",
+    "suiteApt": null,
+    "streetName": "96Th Avenue",
+    "city": "Langley",
+    "province": "BC",
+    "postalCode": "V1M 3B9",
+    "country": "Canada",
+    "fullAddress": "19714 96Th Avenue, Langley, BC, V1M 3B9, Canada"
+   },
+   "production_company": "Wbtv Canada Productions Services Inc.",
+   "production_sched": {
+    "start": "2019-05-17 00:00:00",
+    "wrap": "2020-02-20 00:00:00"
+   },
+   "production_year": 2019,
+   "email": {
+    "production": "sabrinaproductionoffice@gmail.com",
+    "accounting": null
+   },
+   "contract_name": "BCMPA",
+   "union": {
+    "abbr": "UBCP/ACTRA",
+    "rep": null
+   }
+  }
+ },
+ "Legends Of Tomorrow": {
+  "5": {
+   "title": "Legends Of Tomorrow",
+   "type": "TV Series",
+   "season": "05",
+   "episode": {
+    "number": "None",
+    "title": null,
+    "director": null,
+    "1st_ad": null,
+    "air_date": null
+   },
+   "exec_prod": {
+    "exec_producer": "Greg Berlanti, Sarah Schechter, Phil Klemmer, Vladimir Stefoff, Keto Shimizu, Grainne Godfree, James Eagan",
+    "co_exec_producer": null
+   },
+   "producers": {
+    "producer": null,
+    "co_producer": null,
+    "line_producer": null
+   },
+   "studio": null,
+   "phone_number": {
+    "office": "(604) 639-1855",
+    "accounting": null,
+    "emergency": null
+   },
+   "crew": {
+    "director": "",
+    "dop": "",
+    "1st_ad": "",
+    "lm": "Peter Klassen, Trevor Metz",
+    "alm": "Bonny Northcott, Cole Boughton, Andrew Marles",
+    "pm": "Catou Kearney, Jennifer Nick (Um)",
+    "pc": "Anita Truelove"
+   },
+   "casting": {
+    "bg": "Sandra Ken Freeman",
+    "principal": null,
+    "stunt": null
+   },
+   "payroll_company": null,
+   "address": {
+    "streetNumber": "8035",
+    "suiteApt": "200",
+    "streetName": "Glenwood Drive",
+    "city": "Burnaby",
+    "province": "BC",
+    "postalCode": "V3N 5C8",
+    "country": "Canada",
+    "fullAddress": "8035 Glenwood Drive, Suite 200, Burnaby, BC, V3N 5C8, Canada"
+   },
+   "production_company": "Silverstrand Production Services Inc.",
+   "production_sched": {
+    "start": "2019-07-15 00:00:00",
+    "wrap": "2020-01-29 00:00:00"
+   },
+   "production_year": 2019,
+   "email": {
+    "production": "production@waveriderfilms.com",
+    "accounting": null
+   },
+   "contract_name": "BCMPA",
+   "union": {
+    "abbr": "UBCP/ACTRA",
+    "rep": null
+   }
+  }
+ },
+ "Nancy Drew": {
+  "1": {
+   "title": "Nancy Drew",
+   "type": "TV Series",
+   "season": "01",
+   "episode": {
+    "number": "None",
+    "title": null,
+    "director": null,
+    "1st_ad": null,
+    "air_date": null
+   },
+   "exec_prod": {
+    "exec_producer": "Stephanie Savage, Josh Schwartz, Noga Landau, Melinda Hsu Taylor",
+    "co_exec_producer": "Larry Teng"
+   },
+   "producers": {
+    "producer": "Lily Hui",
+    "co_producer": null,
+    "line_producer": null
+   },
+   "studio": null,
+   "phone_number": {
+    "office": "(604) 983-5544",
+    "accounting": null,
+    "emergency": null
+   },
+   "crew": {
+    "director": "",
+    "dop": "",
+    "1st_ad": "",
+    "lm": "Heather Vedan, Rob Amar",
+    "alm": "Bob Mcquarrie, Michael Mcaree, John Macculloch",
+    "pm": "George Horie",
+    "pc": "Steven Merk"
+   },
+   "casting": {
+    "bg": null,
+    "principal": null,
+    "stunt": null
+   },
+   "payroll_company": null,
+   "address": {
+    "streetNumber": "555",
+    "suiteApt": "210",
+    "streetName": "Brooksbank Avenue, Bld. 10",
+    "city": "North Vancouver",
+    "province": "BC",
+    "postalCode": "V7J 3S5",
+    "country": "Canada",
+    "fullAddress": "555 Brooksbank Avenue, Bld. 10, Suite 210, North Vancouver, BC, V7J 3S5, Canada"
+   },
+   "production_company": "Ultra Productions Inc.",
+   "production_sched": {
+    "start": "2019-07-22 00:00:00",
+    "wrap": "2019-12-09 00:00:00"
+   },
+   "production_year": 2019,
+   "email": {
+    "production": "nancydrewprodoffice@gmail.com",
+    "accounting": null
+   },
+   "contract_name": "BCMPA",
+   "union": {
+    "abbr": "UBCP/ACTRA",
+    "rep": null
+   }
+  }
+ },
+ "Project Blue Book": {
+  "2": {
+   "title": "Project Blue Book",
+   "type": "TV Series",
+   "season": "02",
+   "episode": {
+    "number": "None",
+    "title": null,
+    "director": null,
+    "1st_ad": null,
+    "air_date": null
+   },
+   "exec_prod": {
+    "exec_producer": "Robert Zemeckus, Jack Rapke, Jacqueline Levine, Sean Jablonski",
+    "co_exec_producer": null
+   },
+   "producers": {
+    "producer": "Cecil O'Connor",
+    "co_producer": null,
+    "line_producer": null
+   },
+   "studio": null,
+   "phone_number": {
+    "office": "(604) 566-8322",
+    "accounting": null,
+    "emergency": null
+   },
+   "crew": {
+    "director": "",
+    "dop": "",
+    "1st_ad": "",
+    "lm": "Jina Johnson, Nicole Chartrand",
+    "alm": "Graeme Blatherwick, Dustin Shea, Jitka Dermiskova",
+    "pm": "Christina Toy",
+    "pc": "Corine Buffel"
+   },
+   "casting": {
+    "bg": null,
+    "principal": null,
+    "stunt": null
+   },
+   "payroll_company": null,
+   "address": {
+    "streetNumber": "4210",
+    "suiteApt": null,
+    "streetName": "Phillips Avenue",
+    "city": "Burnaby",
+    "province": "BC",
+    "postalCode": "V5A 2X2",
+    "country": "Canada",
+    "fullAddress": "4210 Phillips Avenue, Burnaby, BC, V5A 2X2, Canada"
+   },
+   "production_company": "Blue Book 2 North Productions Inc.",
+   "production_sched": {
+    "start": "2019-07-15 00:00:00",
+    "wrap": "2019-11-13 00:00:00"
+   },
+   "production_year": 2019,
+   "email": {
+    "production": "bluebookprod2@gmail.com",
+    "accounting": null
+   },
+   "contract_name": "BCMPA",
+   "union": {
+    "abbr": "UBCP/ACTRA",
+    "rep": null
+   }
+  }
+ },
+ "Riverdale": {
+  "4": {
+   "title": "Riverdale",
+   "type": "TV Series",
+   "season": "04",
+   "episode": {
+    "number": "None",
+    "title": null,
+    "director": null,
+    "1st_ad": null,
+    "air_date": null
+   },
+   "exec_prod": {
+    "exec_producer": "Jon Goldwater, Sarah Schechter, Roberto Aguirre-Sacasa, Greg Berlanti",
+    "co_exec_producer": null
+   },
+   "producers": {
+    "producer": "Scott Graham",
+    "co_producer": null,
+    "line_producer": null
+   },
+   "studio": null,
+   "phone_number": {
+    "office": "(778) 298-6344",
+    "accounting": null,
+    "emergency": null
+   },
+   "crew": {
+    "director": "",
+    "dop": "",
+    "1st_ad": "",
+    "lm": "Sheri Mayervich, Mike Bogdanovic",
+    "alm": "Angela Rice, Connor Rielly, Sarah Mills",
+    "pm": "Tanja Knight, Marian Koprada (Um)",
+    "pc": "Shalia Edl, Blair Hackman"
+   },
+   "casting": {
+    "bg": "Sandra Ken Freeman",
+    "principal": null,
+    "stunt": null
+   },
+   "payroll_company": null,
+   "address": {
+    "streetNumber": "20146",
+    "suiteApt": "2",
+    "streetName": "100A Avenue",
+    "city": "Langley",
+    "province": "BC",
+    "postalCode": "V1M 3G2",
+    "country": "Canada",
+    "fullAddress": "20146 100A Avenue, Suite 2, Langley, BC, V1M 3G2, Canada"
+   },
+   "production_company": "Shadow Lake Films, A Division Of Adjacent Production Services Inc.",
+   "production_sched": {
+    "start": "2019-07-08 00:00:00",
+    "wrap": "2020-04-04 00:00:00"
+   },
+   "production_year": 2019,
+   "email": {
+    "production": "riverdaleprodoffice@gmail.com",
+    "accounting": null
+   },
+   "contract_name": "BCMPA",
+   "union": {
+    "abbr": "UBCP/ACTRA",
+    "rep": null
+   }
+  }
+ },
+ "Siren": {
+  "3": {
+   "title": "Siren",
+   "type": "TV Series",
+   "season": "03",
+   "episode": {
+    "number": "None",
+    "title": null,
+    "director": null,
+    "1st_ad": null,
+    "air_date": null
+   },
+   "exec_prod": {
+    "exec_producer": "Eric Wald, Dean White, Nate Hopper, Brad Luff, R.D. Rodd, Emily Whitesell",
+    "co_exec_producer": null
+   },
+   "producers": {
+    "producer": "Peter Lhotka",
+    "co_producer": null,
+    "line_producer": null
+   },
+   "studio": null,
+   "phone_number": {
+    "office": "(604) 453-4920",
+    "accounting": null,
+    "emergency": null
+   },
+   "crew": {
+    "director": "",
+    "dop": "",
+    "1st_ad": "",
+    "lm": "Neil Robertson, Nicholas Wade",
+    "alm": "Jeremy Kulyk, Theresa Bodin, Kassandra Schmidt",
+    "pm": "Neil Williams, Diana Donaldson (Um)",
+    "pc": "Jackie Pytel"
+   },
+   "casting": {
+    "bg": "Kit Hayward",
+    "principal": null,
+    "stunt": null
+   },
+   "payroll_company": null,
+   "address": {
+    "streetNumber": "3500",
+    "suiteApt": null,
+    "streetName": "Cornett Road, Bld. E",
+    "city": "Vancouver",
+    "province": "BC",
+    "postalCode": "V5M 2H5",
+    "country": "Canada",
+    "fullAddress": "3500 Cornett Road, Bld. E, Vancouver, BC, V5M 2H5, Canada"
+   },
+   "production_company": "Bad Angels Productions Ltd.",
+   "production_sched": {
+    "start": "2019-08-01 00:00:00",
+    "wrap": "2019-12-16 00:00:00"
+   },
+   "production_year": 2019,
+   "email": {
+    "production": "sirenfreeform@gmail.com",
+    "accounting": null
+   },
+   "contract_name": "BCMPA",
+   "union": {
+    "abbr": "UBCP/ACTRA",
+    "rep": null
+   }
+  }
+ },
+ "Supergirl": {
+  "5": {
+   "title": "Supergirl",
+   "type": "TV Series",
+   "season": "05",
+   "episode": {
+    "number": "None",
+    "title": null,
+    "director": null,
+    "1st_ad": null,
+    "air_date": null
+   },
+   "exec_prod": {
+    "exec_producer": "Sarah Schechter, Greg Berlanti, Robert Rovner, Jessica Queller",
+    "co_exec_producer": null
+   },
+   "producers": {
+    "producer": "Jesse Warn",
+    "co_producer": null,
+    "line_producer": "Chris Pavoni"
+   },
+   "studio": null,
+   "phone_number": {
+    "office": "(604) 371-2614",
+    "accounting": null,
+    "emergency": null
+   },
+   "crew": {
+    "director": "",
+    "dop": "",
+    "1st_ad": "",
+    "lm": "Amy Barager, Myles Lennig",
+    "alm": "David Konkin, Reba Rowe, Mark Soderberg, James Thompson, Tj Rumpel",
+    "pm": "Jennifer Carpenter Hernandez, Matthew Villeneuve (Um)",
+    "pc": "Hudson Cooley"
+   },
+   "casting": {
+    "bg": "Sandra Ken Freeman",
+    "principal": null,
+    "stunt": null
+   },
+   "payroll_company": null,
+   "address": {
+    "streetNumber": "20146",
+    "suiteApt": "1",
+    "streetName": "100A Avenue",
+    "city": "Langley",
+    "province": "BC",
+    "postalCode": "V1M 3G2",
+    "country": "Canada",
+    "fullAddress": "20146 100A Avenue, Suite 1, Langley, BC, V1M 3G2, Canada"
+   },
+   "production_company": "137 Production Services Inc.",
+   "production_sched": {
+    "start": "2019-06-27 00:00:00",
+    "wrap": "2020-04-14 00:00:00"
+   },
+   "production_year": 2019,
+   "email": {
+    "production": "supergirl@137production.com",
+    "accounting": null
+   },
+   "contract_name": "BCMPA",
+   "union": {
+    "abbr": "UBCP/ACTRA",
+    "rep": null
+   }
+  }
+ },
+ "Supernatural": {
+  "15": {
+   "title": "Supernatural",
+   "type": "TV Series",
+   "season": "15",
+   "episode": {
+    "number": "None",
+    "title": null,
+    "director": null,
+    "1st_ad": null,
+    "air_date": null
+   },
+   "exec_prod": {
+    "exec_producer": "Robert Singer, Andrew Dabb, Eugenie Ross-Leming, Brad Buckner, Bob Berens, Jim Michaels, M. Glynn, John Showalter",
+    "co_exec_producer": null
+   },
+   "producers": {
+    "producer": "Pj Tancinco, Davy Perez",
+    "co_producer": null,
+    "line_producer": null
+   },
+   "studio": null,
+   "phone_number": {
+    "office": "(604) 529-1466",
+    "accounting": null,
+    "emergency": null
+   },
+   "crew": {
+    "director": "",
+    "dop": "",
+    "1st_ad": "",
+    "lm": "Scott Harper, Shane C. Lennox",
+    "alm": "Meggen Balzer, Brad Erickson, Brent Mccorkle",
+    "pm": "Craig Matheson",
+    "pc": "Jason Fischer"
+   },
+   "casting": {
+    "bg": "La Hilts",
+    "principal": null,
+    "stunt": null
+   },
+   "payroll_company": null,
+   "address": {
+    "streetNumber": "8085",
+    "suiteApt": null,
+    "streetName": "Glenwood Drive",
+    "city": "Burnaby",
+    "province": "BC",
+    "postalCode": "V3N5C8",
+    "country": "Canada",
+    "fullAddress": "8085 Glenwood Drive, Burnaby, BC, V3N5C8, Canada"
+   },
+   "production_company": "Supernatural 5 Films Inc.",
+   "production_sched": {
+    "start": "2019-07-18 00:00:00",
+    "wrap": "2020-04-02 00:00:00"
+   },
+   "production_year": 2019,
+   "email": {
+    "production": "supernaturalfilms@gmail.com",
+    "accounting": null
+   },
+   "contract_name": "BCMPA",
+   "union": {
+    "abbr": "UBCP/ACTRA",
+    "rep": null
+   }
+  }
+ },
+ "100, The": {
+  "7": {
+   "title": "100, The",
+   "type": "TV Series",
+   "season": "07",
+   "episode": {
+    "number": "None",
+    "title": null,
+    "director": null,
+    "1st_ad": null,
+    "air_date": null
+   },
+   "exec_prod": {
+    "exec_producer": "Jason Rothenberg, Leslie Morgenstein, Ed Fraiman",
+    "co_exec_producer": null
+   },
+   "producers": {
+    "producer": "Charles Lyall",
+    "co_producer": null,
+    "line_producer": null
+   },
+   "studio": null,
+   "phone_number": {
+    "office": "(604) 371-1414",
+    "accounting": null,
+    "emergency": null
+   },
+   "crew": {
+    "director": "",
+    "dop": "",
+    "1st_ad": "",
+    "lm": "David Halifax",
+    "alm": "Melanie B. Petruchak, Anthony Tanner",
+    "pm": "Michele Futerman",
+    "pc": "Tim Smith"
+   },
+   "casting": {
+    "bg": null,
+    "principal": null,
+    "stunt": null
+   },
+   "payroll_company": null,
+   "address": {
+    "streetNumber": "9110",
+    "suiteApt": null,
+    "streetName": "196A Street",
+    "city": "Langley",
+    "province": "BC",
+    "postalCode": "V1M 3B4",
+    "country": "Canada",
+    "fullAddress": "9110 196A Street, Langley, BC, V1M 3B4, Canada"
+   },
+   "production_company": "Ambleside Production Services Inc.",
+   "production_sched": {
+    "start": "2019-08-26 00:00:00",
+    "wrap": "2020-03-19 00:00:00"
+   },
+   "production_year": 2019,
+   "email": {
+    "production": "the100office@gmail.com",
+    "accounting": null
+   },
+   "contract_name": "BCMPA",
+   "union": {
+    "abbr": "UBCP/ACTRA",
+    "rep": null
+   }
+  }
+ },
+ "Flash, The": {
+  "6": {
+   "title": "Flash, The",
+   "type": "TV Series",
+   "season": "06",
+   "episode": {
+    "number": "None",
+    "title": null,
+    "director": null,
+    "1st_ad": null,
+    "air_date": null
+   },
+   "exec_prod": {
+    "exec_producer": "Greg Berlanti, Sarah Schechter, Eric Wallace, Jp Finn",
+    "co_exec_producer": null
+   },
+   "producers": {
+    "producer": null,
+    "co_producer": null,
+    "line_producer": null
+   },
+   "studio": null,
+   "phone_number": {
+    "office": "(604) 453-4980",
+    "accounting": null,
+    "emergency": null
+   },
+   "crew": {
+    "director": "",
+    "dop": "",
+    "1st_ad": "",
+    "lm": "Greg Jackson, Alan Bartolic",
+    "alm": "Kirk Renard, Corrie Alexander, Zeljko Vrucina",
+    "pm": "Brent Crowell",
+    "pc": "Lukia Czernin"
+   },
+   "casting": {
+    "bg": "Sandra Ken Freeman",
+    "principal": null,
+    "stunt": null
+   },
+   "payroll_company": null,
+   "address": {
+    "streetNumber": "3500",
+    "suiteApt": null,
+    "streetName": "Cornett Road, Bldg. C",
+    "city": "Vancouver",
+    "province": "BC",
+    "postalCode": "V5M2H5",
+    "country": "Canada",
+    "fullAddress": "3500 Cornett Road, Bldg. C, Vancouver, BC, V5M2H5, Canada"
+   },
+   "production_company": "Water Tower Production Services Inc.",
+   "production_sched": {
+    "start": "2019-07-02 00:00:00",
+    "wrap": "2020-04-07 00:00:00"
+   },
+   "production_year": 2019,
+   "email": {
+    "production": "production@theflashoffice.com",
+    "accounting": null
+   },
+   "contract_name": "BCMPA",
+   "union": {
+    "abbr": "UBCP/ACTRA",
+    "rep": null
+   }
+  }
+ },
+ "Good Doctor, The": {
+  "3": {
+   "title": "Good Doctor, The",
+   "type": "TV Series",
+   "season": "03",
+   "episode": {
+    "number": "None",
+    "title": null,
+    "director": null,
+    "1st_ad": null,
+    "air_date": null
+   },
+   "exec_prod": {
+    "exec_producer": "David Shore, Erin Gunn, Mike Listo",
+    "co_exec_producer": null
+   },
+   "producers": {
+    "producer": "Shawn Williamson",
+    "co_producer": null,
+    "line_producer": null
+   },
+   "studio": null,
+   "phone_number": {
+    "office": "(604) 292-5150",
+    "accounting": null,
+    "emergency": null
+   },
+   "crew": {
+    "director": "",
+    "dop": "",
+    "1st_ad": "",
+    "lm": "Michael Roberts",
+    "alm": "Derek Sutherland, Jeremy Kashkett",
+    "pm": "Paul Lukaitis",
+    "pc": "Alison Stephen"
+   },
+   "casting": {
+    "bg": "Sandra Ken Freeman",
+    "principal": null,
+    "stunt": null
+   },
+   "payroll_company": null,
+   "address": {
+    "streetNumber": "2400",
+    "suiteApt": null,
+    "streetName": "Boundary Road",
+    "city": "Burnaby",
+    "province": "BC",
+    "postalCode": "V5M 3Z3",
+    "country": "Canada",
+    "fullAddress": "2400 Boundary Road, Burnaby, BC, V5M 3Z3, Canada"
+   },
+   "production_company": "Pico Productions (Bc) Limited",
+   "production_sched": {
+    "start": "2019-06-19 00:00:00",
+    "wrap": "2020-03-03 00:00:00"
+   },
+   "production_year": 2019,
+   "email": {
+    "production": "gooddoctorprodoffice@gmail.com",
+    "accounting": null
+   },
+   "contract_name": "BCMPA",
+   "union": {
+    "abbr": "UBCP/ACTRA",
+    "rep": null
+   }
+  }
+ },
+ "Magicians, The": {
+  "5": {
+   "title": "Magicians, The",
+   "type": "TV Series",
+   "season": "05",
+   "episode": {
+    "number": "None",
+    "title": null,
+    "director": null,
+    "1st_ad": null,
+    "air_date": null
+   },
+   "exec_prod": {
+    "exec_producer": "Michael London, Janice Williams, John Mcnamara, Sera Gamble, Henry Alonso Myers, Laurie Liese, David Reed",
+    "co_exec_producer": null
+   },
+   "producers": {
+    "producer": "Clara George, Chris Fisher, Matthew Chipera, Mike Moore, Hillary Benefiel",
+    "co_producer": null,
+    "line_producer": null
+   },
+   "studio": null,
+   "phone_number": {
+    "office": "(604) 336-6200",
+    "accounting": null,
+    "emergency": null
+   },
+   "crew": {
+    "director": "",
+    "dop": "",
+    "1st_ad": "",
+    "lm": "Mary Jo Beirnes, Ritch Renaud",
+    "alm": "Brendon Rodney, Jessica Feskun, Jarrod Celuch, Boris Detvaj",
+    "pm": "Matthew Chipera, Jerry Pender (Um)",
+    "pc": "Darron Leiren-Young, Byron Fudge"
+   },
+   "casting": {
+    "bg": "Sara Brown",
+    "principal": null,
+    "stunt": null
+   },
+   "payroll_company": null,
+   "address": {
+    "streetNumber": "8275",
+    "suiteApt": null,
+    "streetName": "Manitoba Street",
+    "city": "Vancouver",
+    "province": "BC",
+    "postalCode": "V5X 4L8",
+    "country": "Canada",
+    "fullAddress": "8275 Manitoba Street, Vancouver, BC, V5X 4L8, Canada"
+   },
+   "production_company": "Gep Magicians Inc.",
+   "production_sched": {
+    "start": "2019-06-10 00:00:00",
+    "wrap": "2019-11-08 00:00:00"
+   },
+   "production_year": 2019,
+   "email": {
+    "production": "themagiciansoffice@gmail.com",
+    "accounting": null
+   },
+   "contract_name": "BCMPA",
+   "union": {
+    "abbr": "UBCP/ACTRA",
+    "rep": null
+   }
+  }
+ },
+ "When Calls The Heart": {
+  "7": {
+   "title": "When Calls The Heart",
+   "type": "TV Series",
+   "season": "07",
+   "episode": {
+    "number": "None",
+    "title": null,
+    "director": null,
+    "1st_ad": null,
+    "air_date": null
+   },
+   "exec_prod": {
+    "exec_producer": "Alfonso Moreno",
+    "co_exec_producer": null
+   },
+   "producers": {
+    "producer": "Vicki Sotheran, Greg Malcolm",
+    "co_producer": null,
+    "line_producer": null
+   },
+   "studio": null,
+   "phone_number": {
+    "office": "604 420 2006",
+    "accounting": null,
+    "emergency": null
+   },
+   "crew": {
+    "director": "",
+    "dop": "",
+    "1st_ad": "",
+    "lm": "David Fullerton",
+    "alm": null,
+    "pm": "Michael Magnusson",
+    "pc": "Michael Lien"
+   },
+   "casting": {
+    "bg": "Sara Brown",
+    "principal": null,
+    "stunt": null
+   },
+   "payroll_company": null,
+   "address": {
+    "streetNumber": "2939",
+    "suiteApt": null,
+    "streetName": "Bainbridge, Avenue",
+    "city": "Burnaby",
+    "province": "BC",
+    "postalCode": "V5A 2S9",
+    "country": "Canada",
+    "fullAddress": "2939 Bainbridge, Avenue, Burnaby, BC, V5A 2S9, Canada"
+   },
+   "production_company": "Wcth 7 Productions Inc.",
+   "production_sched": {
+    "start": "2019-08-26 00:00:00",
+    "wrap": "2019-12-16 00:00:00"
+   },
+   "production_year": 2019,
+   "email": {
+    "production": "production@wcthprods.com",
+    "accounting": null
+   },
+   "contract_name": "BCMPA",
+   "union": {
+    "abbr": "UBCP/ACTRA",
+    "rep": null
+   }
+  }
+ },
+ "Zoey'S Extraordinary Playlist": {
+  "1": {
+   "title": "Zoey'S Extraordinary Playlist",
+   "type": "TV Series",
+   "season": "01",
+   "episode": {
+    "number": "None",
+    "title": null,
+    "director": null,
+    "1st_ad": null,
+    "air_date": null
+   },
+   "exec_prod": {
+    "exec_producer": "David Blackman, Paul Feig, Eric Tannenbaum, Kim Tannenbaum, Austin Winsberg",
+    "co_exec_producer": null
+   },
+   "producers": {
+    "producer": "Michele Greco, Adam Davidson",
+    "co_producer": null,
+    "line_producer": null
+   },
+   "studio": null,
+   "phone_number": {
+    "office": "778 663 5049",
+    "accounting": null,
+    "emergency": null
+   },
+   "crew": {
+    "director": "",
+    "dop": "",
+    "1st_ad": "",
+    "lm": "Michael Legresley",
+    "alm": "Tucker Rolfe, Stephen Sangster, John Hall",
+    "pm": "Brian Dick",
+    "pc": "Craig J. Lane"
+   },
+   "casting": {
+    "bg": null,
+    "principal": null,
+    "stunt": null
+   },
+   "payroll_company": null,
+   "address": {
+    "streetNumber": "12211",
+    "suiteApt": null,
+    "streetName": "Horseshoe Way",
+    "city": "Richmond",
+    "province": "BC",
+    "postalCode": "V7A 4V4",
+    "country": "Canada",
+    "fullAddress": "12211 Horseshoe Way, Richmond, BC, V7A 4V4, Canada"
+   },
+   "production_company": "Zoey Productions Corp.",
+   "production_sched": {
+    "start": "2019-09-03 00:00:00",
+    "wrap": "2020-01-30 00:00:00"
+   },
+   "production_year": 2019,
+   "email": {
+    "production": "zoeyprod@gmail.com",
+    "accounting": null
+   },
+   "contract_name": "BCMPA",
+   "union": {
+    "abbr": "UBCP/ACTRA",
+    "rep": null
+   }
+  }
+ },
+ "Away": {
+  "1": {
+   "title": "Away",
+   "type": "New Media Series",
+   "season": "01",
+   "episode": {
+    "number": "None",
+    "title": null,
+    "director": null,
+    "1st_ad": null,
+    "air_date": null
+   },
+   "exec_prod": {
+    "exec_producer": "Jeni Mulein, Jessica Goldberg, Edward Zwick, Rafi Crohn, Adam Kassan, Jason Katims, Matt Reeves",
+    "co_exec_producer": null
+   },
+   "producers": {
+    "producer": "Jeff Rafner",
+    "co_producer": null,
+    "line_producer": null
+   },
+   "studio": null,
+   "phone_number": {
+    "office": "(604) 983-5888",
+    "accounting": null,
+    "emergency": null
+   },
+   "crew": {
+    "director": "",
+    "dop": "",
+    "1st_ad": "",
+    "lm": "Paul Russell",
+    "alm": "Debra Beaudreau, Mark Wilmot",
+    "pm": "Adrian Cox",
+    "pc": "Jennifer Aichholz"
+   },
+   "casting": {
+    "bg": null,
+    "principal": null,
+    "stunt": null
+   },
+   "payroll_company": null,
+   "address": {
+    "streetNumber": "555",
+    "suiteApt": "310",
+    "streetName": "Brooksbank Avenue, Bldg. 10",
+    "city": "North Vancouver",
+    "province": "BC",
+    "postalCode": "V7J 3S5",
+    "country": "Canada",
+    "fullAddress": "555 Brooksbank Avenue, Bldg. 10, Suite 310, North Vancouver, BC, V7J 3S5, Canada"
+   },
+   "production_company": "Gep Away Inc.",
+   "production_sched": {
+    "start": "2019-08-26 00:00:00",
+    "wrap": "2020-02-05 00:00:00"
+   },
+   "production_year": 2019,
+   "email": {
+    "production": "awayproductionoffice@gmail.com",
+    "accounting": null
+   },
+   "contract_name": "BCMPA",
+   "union": {
+    "abbr": "UBCP/ACTRA",
+    "rep": null
+   }
+  }
+ },
+ "Firefly Lane": {
+  "1": {
+   "title": "Firefly Lane",
+   "type": "New Media Series",
+   "season": "01",
+   "episode": {
+    "number": "None",
+    "title": null,
+    "director": null,
+    "1st_ad": null,
+    "air_date": null
+   },
+   "exec_prod": {
+    "exec_producer": "Maggie Friedman, Stephanie Germaine, Lee Rose, Shawn Williamson",
+    "co_exec_producer": null
+   },
+   "producers": {
+    "producer": "Aaron Au",
+    "co_producer": null,
+    "line_producer": null
+   },
+   "studio": null,
+   "phone_number": {
+    "office": "(604) 628-3000",
+    "accounting": null,
+    "emergency": null
+   },
+   "crew": {
+    "director": "",
+    "dop": "",
+    "1st_ad": "",
+    "lm": "John Alexander",
+    "alm": "Robin Macdonald, Jennifer Beckhuson",
+    "pm": "Ryan Silva",
+    "pc": "Bobby Gorman"
+   },
+   "casting": {
+    "bg": "Sandra Ken Freeman",
+    "principal": null,
+    "stunt": null
+   },
+   "payroll_company": null,
+   "address": {
+    "streetNumber": "2400",
+    "suiteApt": "810",
+    "streetName": "Boundary Road",
+    "city": "Burnaby",
+    "province": "BC",
+    "postalCode": "V5M 3Z3",
+    "country": "Canada",
+    "fullAddress": "2400 Boundary Road, Suite 810, Burnaby, BC, V5M 3Z3, Canada"
+   },
+   "production_company": "Ffl Productions Inc.",
+   "production_sched": {
+    "start": "2019-09-17 00:00:00",
+    "wrap": "2020-01-21 00:00:00"
+   },
+   "production_year": 2019,
+   "email": {
+    "production": "fireflylanetv@gmail.com",
+    "accounting": null
+   },
+   "contract_name": "BCMPA",
+   "union": {
+    "abbr": "UBCP/ACTRA",
+    "rep": null
+   }
+  }
+ },
+ "Julie And The Phantoms": {
+  "1": {
+   "title": "Julie And The Phantoms",
+   "type": "New Media Series",
+   "season": "01",
+   "episode": {
+    "number": "None",
+    "title": null,
+    "director": null,
+    "1st_ad": null,
+    "air_date": null
+   },
+   "exec_prod": {
+    "exec_producer": "Dan Cross, Dave Hoge, Kenny Ortega, Shawn Williamson",
+    "co_exec_producer": null
+   },
+   "producers": {
+    "producer": "Jameson Parker, Thierry Tanguy",
+    "co_producer": null,
+    "line_producer": null
+   },
+   "studio": null,
+   "phone_number": {
+    "office": "604 292 8640",
+    "accounting": null,
+    "emergency": null
+   },
+   "crew": {
+    "director": "",
+    "dop": "",
+    "1st_ad": "",
+    "lm": "Desiree Young",
+    "alm": "Kim Aitken, Julia Ghersini, Quentin Johnston",
+    "pm": "Thierry Tanguy, Ricardo Plaza-Rosselot (Um)",
+    "pc": "Rhona Williscroft"
+   },
+   "casting": {
+    "bg": "Andrea Hughes",
+    "principal": null,
+    "stunt": null
+   },
+   "payroll_company": null,
+   "address": {
+    "streetNumber": "2400",
+    "suiteApt": null,
+    "streetName": "Boundary Road, Bld Main Street, West",
+    "city": "3Rd Floor Burnaby",
+    "province": "BC",
+    "postalCode": "V5M 3Z3",
+    "country": "Canada",
+    "fullAddress": "2400 Boundary Road, Bld Main Street, West, 3Rd Floor Burnaby, BC, V5M 3Z3, Canada"
+   },
+   "production_company": "Jatp Productions Inc.",
+   "production_sched": {
+    "start": "2019-09-16 00:00:00",
+    "wrap": "2019-12-17 00:00:00"
+   },
+   "production_year": 2019,
+   "email": {
+    "production": "jatpproductionsinc@gmail.com",
+    "accounting": null
+   },
+   "contract_name": "BCMPA",
+   "union": {
+    "abbr": "UBCP/ACTRA",
+    "rep": null
+   }
+  }
+ },
+ "Omens": {
+  "1": {
+   "title": "Omens",
+   "type": "New Media Series",
+   "season": "01",
+   "episode": {
+    "number": "None",
+    "title": null,
+    "director": null,
+    "1st_ad": null,
+    "air_date": null
+   },
+   "exec_prod": {
+    "exec_producer": null,
+    "co_exec_producer": null
+   },
+   "producers": {
+    "producer": null,
+    "co_producer": null,
+    "line_producer": null
+   },
+   "studio": null,
+   "phone_number": {
+    "office": "(604) 245-0001",
+    "accounting": null,
+    "emergency": null
+   },
+   "crew": {
+    "director": "",
+    "dop": "",
+    "1st_ad": "",
+    "lm": "Greg Astop",
+    "alm": "Kyle Sevier, Kelly Mckeigan",
+    "pm": "Chris Rudolph",
+    "pc": "Nancy Mckenzie"
+   },
+   "casting": {
+    "bg": null,
+    "principal": null,
+    "stunt": null
+   },
+   "payroll_company": null,
+   "address": {
+    "streetNumber": "8355",
+    "suiteApt": null,
+    "streetName": "Riverbend Court",
+    "city": "Burnaby",
+    "province": "BC",
+    "postalCode": "V3N 5E7",
+    "country": "Canada",
+    "fullAddress": "8355 Riverbend Court, Burnaby, BC, V3N 5E7, Canada"
+   },
+   "production_company": "Stage 49 Ltd.",
+   "production_sched": {
+    "start": "2019-10-07 00:00:00",
+    "wrap": "2020-02-28 00:00:00"
+   },
+   "production_year": 2019,
+   "email": {
+    "production": "prodoffice@foulrenter.com",
+    "accounting": null
+   },
+   "contract_name": "BCMPA",
+   "union": {
+    "abbr": "UBCP/ACTRA",
+    "rep": null
+   }
+  }
+ },
+ "Radio Nowhere": {
+  "1": {
+   "title": "Radio Nowhere",
+   "type": "New Media Series",
+   "season": "01",
+   "episode": {
+    "number": "None",
+    "title": null,
+    "director": null,
+    "1st_ad": null,
+    "air_date": null
+   },
+   "exec_prod": {
+    "exec_producer": "Jimmy Miller, Roy Lee, Richard P. Rubinstein, Miri Yoon, Owen King, Ben Cavell, Will Weiske, Josh Boone",
+    "co_exec_producer": null
+   },
+   "producers": {
+    "producer": "Jefferey Valeri, Owen King",
+    "co_producer": null,
+    "line_producer": null
+   },
+   "studio": null,
+   "phone_number": {
+    "office": "(604) 983-5353",
+    "accounting": null,
+    "emergency": null
+   },
+   "crew": {
+    "director": "",
+    "dop": "",
+    "1st_ad": "",
+    "lm": "Matt Palmer",
+    "alm": "Jason Liadis, Graysen Sangster",
+    "pm": "Lynne Bespflug",
+    "pc": "Morgan Brady"
+   },
+   "casting": {
+    "bg": null,
+    "principal": null,
+    "stunt": null
+   },
+   "payroll_company": null,
+   "address": {
+    "streetNumber": "555",
+    "suiteApt": "240",
+    "streetName": "Brooksbank Avenue",
+    "city": "North Vancouver",
+    "province": "BC",
+    "postalCode": "V7J 3S5",
+    "country": "Canada",
+    "fullAddress": "555 Brooksbank Avenue, Suite 240, North Vancouver, BC, V7J 3S5, Canada"
+   },
+   "production_company": "Salvation Productions Inc.",
+   "production_sched": {
+    "start": "2019-09-16 00:00:00",
+    "wrap": "2020-03-11 00:00:00"
+   },
+   "production_year": 2019,
+   "email": {
+    "production": "radionowhereprod@gmail.com",
+    "accounting": null
+   },
+   "contract_name": "BCMPA",
+   "union": {
+    "abbr": "UBCP/ACTRA",
+    "rep": null
+   }
+  }
+ },
+ "Sacred Lies": {
+  "2": {
+   "title": "Sacred Lies",
+   "type": "New Media Series",
+   "season": "02",
+   "episode": {
+    "number": "None",
+    "title": null,
+    "director": null,
+    "1st_ad": null,
+    "air_date": null
+   },
+   "exec_prod": {
+    "exec_producer": "Raelle Tucker, Scott Winant",
+    "co_exec_producer": null
+   },
+   "producers": {
+    "producer": "Jim O'Grady",
+    "co_producer": null,
+    "line_producer": null
+   },
+   "studio": null,
+   "phone_number": {
+    "office": "(604) 449-3266",
+    "accounting": null,
+    "emergency": null
+   },
+   "crew": {
+    "director": "",
+    "dop": "",
+    "1st_ad": "",
+    "lm": "Terry Mackay",
+    "alm": "Ithon Harrison-Jones, Andryah Fugard-Mackay",
+    "pm": "Ian Birkett",
+    "pc": "Jill Mcqueen"
+   },
+   "casting": {
+    "bg": "Sandra Ken Freeman",
+    "principal": null,
+    "stunt": null
+   },
+   "payroll_company": null,
+   "address": {
+    "streetNumber": "7588",
+    "suiteApt": null,
+    "streetName": "Winston Street",
+    "city": "Burnaby",
+    "province": "BC",
+    "postalCode": "V5A 4X5",
+    "country": "Canada",
+    "fullAddress": "7588 Winston Street, Burnaby, BC, V5A 4X5, Canada"
+   },
+   "production_company": "Sacred Lies 2 Canada Inc.",
+   "production_sched": {
+    "start": "2019-07-03 00:00:00",
+    "wrap": "2019-09-13 00:00:00"
+   },
+   "production_year": 2019,
+   "email": {
+    "production": "sacredliesoffice@gmail.com",
+    "accounting": null
+   },
+   "contract_name": "BCMPA",
+   "union": {
+    "abbr": "UBCP/ACTRA",
+    "rep": null
+   }
+  }
+ },
+ "Baby-Sitters Club, The": {
+  "1": {
+   "title": "Baby-Sitters Club, The",
+   "type": "New Media Series",
+   "season": "01",
+   "episode": {
+    "number": "None",
+    "title": null,
+    "director": null,
+    "1st_ad": null,
+    "air_date": null
+   },
+   "exec_prod": {
+    "exec_producer": "Michael De Luca, Lucia Aniello, Rachel Shukert, Lucy Winn Kitada",
+    "co_exec_producer": null
+   },
+   "producers": {
+    "producer": "Meg Schave, Ann M. Martin, Naia Cucukov",
+    "co_producer": null,
+    "line_producer": null
+   },
+   "studio": null,
+   "phone_number": {
+    "office": "(778) 357-0820",
+    "accounting": null,
+    "emergency": null
+   },
+   "crew": {
+    "director": "",
+    "dop": "",
+    "1st_ad": "",
+    "lm": "Jon Cairns",
+    "alm": "Warren Fulton, Jennifer Berthot",
+    "pm": "Lauren Stope",
+    "pc": "Mara Perez"
+   },
+   "casting": {
+    "bg": "Doreen Ferreira",
+    "principal": null,
+    "stunt": null
+   },
+   "payroll_company": null,
+   "address": {
+    "streetNumber": "4084",
+    "suiteApt": "200",
+    "streetName": "Mcconnell Court",
+    "city": "Burnaby",
+    "province": "BC",
+    "postalCode": "V5A 3N7",
+    "country": "Canada",
+    "fullAddress": "4084 Mcconnell Court, Suite 200, Burnaby, BC, V5A 3N7, Canada"
+   },
+   "production_company": "Landline Productions Inc.",
+   "production_sched": {
+    "start": "2019-08-06 00:00:00",
+    "wrap": "2019-10-15 00:00:00"
+   },
+   "production_year": 2019,
+   "email": {
+    "production": "bscproductionoffice@gmail.com",
+    "accounting": null
+   },
+   "contract_name": "BCMPA",
+   "union": {
+    "abbr": "UBCP/ACTRA",
+    "rep": null
+   }
+  }
+ },
+ "Haunting Of Bly Manor, The": {
+  "title": "Haunting Of Bly Manor, The",
+  "type": "New Media Series",
+  "season": "None",
+  "episode": {
+   "number": "None",
+   "title": null,
+   "director": null,
+   "1st_ad": null,
+   "air_date": null
+  },
+  "exec_prod": {
+   "exec_producer": "Meredith Averill, Justin Falvey, Darryl Frank, Trevor Macy, Mike Flanagan",
+   "co_exec_producer": null
+  },
+  "producers": {
+   "producer": "Kathy Gilroy",
+   "co_producer": null,
+   "line_producer": null
+  },
+  "studio": null,
+  "phone_number": {
+   "office": "(604) 292-8360",
+   "accounting": null,
+   "emergency": null
+  },
+  "crew": {
+   "director": "",
+   "dop": "",
+   "1st_ad": "",
+   "lm": "Sarah Done, Kirk Adamson",
+   "alm": "Brian Mcwha, Cory Pioveson",
+   "pm": "Chad Fitz",
+   "pc": "Connor Tkachuk"
+  },
+  "casting": {
+   "bg": "Lisa Ratke",
+   "principal": null,
+   "stunt": null
+  },
+  "payroll_company": null,
+  "address": {
+   "streetNumber": "2400",
+   "suiteApt": null,
+   "streetName": "Boundary Road",
+   "city": "Bldg. 7",
+   "province": "BC",
+   "postalCode": "V5M 3Z3",
+   "country": "Canada",
+   "fullAddress": "2400 Boundary Road, Bldg. 7, BC, V5M 3Z3, Canada"
+  },
+  "production_company": "Lucy Park Productions Ltd.",
+  "production_sched": {
+   "start": "2019-09-30 00:00:00",
+   "wrap": "2020-02-25 00:00:00"
+  },
+  "production_year": 2019,
+  "email": {
+   "production": "blyprodoffice@gmail.com",
+   "accounting": null
+  },
+  "contract_name": "BCMPA",
+  "union": {
+   "abbr": "UBCP/ACTRA",
+   "rep": null
+  }
+ },
+ "Order, The": {
+  "2": {
+   "title": "Order, The",
+   "type": "New Media Series",
+   "season": "02",
+   "episode": {
+    "number": "None",
+    "title": null,
+    "director": null,
+    "1st_ad": null,
+    "air_date": null
+   },
+   "exec_prod": {
+    "exec_producer": "Chad Oakes, Michael Frislev, Dennis Heaton, Shelley Eriksen, David Von Ancken",
+    "co_exec_producer": null
+   },
+   "producers": {
+    "producer": "Justis Greene, Morris Chapdelaine",
+    "co_producer": null,
+    "line_producer": null
+   },
+   "studio": null,
+   "phone_number": {
+    "office": "(604) 343-7600",
+    "accounting": null,
+    "emergency": null
+   },
+   "crew": {
+    "director": "",
+    "dop": "",
+    "1st_ad": "",
+    "lm": "Nancy Larman",
+    "alm": "Edison Farfan, Arjun Rawat, Elshazly Ibrahim Elshazly",
+    "pm": "Catherine Kretz",
+    "pc": "Melyssa Rose"
+   },
+   "casting": {
+    "bg": "Sara Brown",
+    "principal": null,
+    "stunt": null
+   },
+   "payroll_company": null,
+   "address": {
+    "streetNumber": "780",
+    "suiteApt": null,
+    "streetName": "Beatty St, Level 1",
+    "city": "Vancouver",
+    "province": "BC",
+    "postalCode": "V6B 2M1",
+    "country": "Canada",
+    "fullAddress": "780 Beatty St, Level 1, Vancouver, BC, V6B 2M1, Canada"
+   },
+   "production_company": "The Order S2 Bc Productions Inc.",
+   "production_sched": {
+    "start": "2019-08-06 00:00:00",
+    "wrap": "2019-11-07 00:00:00"
+   },
+   "production_year": 2019,
+   "email": {
+    "production": "theorders2office@gmail.com",
+    "accounting": null
+   },
+   "contract_name": "BCMPA",
+   "union": {
+    "abbr": "UBCP/ACTRA",
+    "rep": null
+   }
+  }
+ },
+ "Virgin River": {
+  "2": {
+   "title": "Virgin River",
+   "type": "New Media Series",
+   "season": "02",
+   "episode": {
+    "number": "None",
+    "title": null,
+    "director": null,
+    "1st_ad": null,
+    "air_date": null
+   },
+   "exec_prod": {
+    "exec_producer": null,
+    "co_exec_producer": null
+   },
+   "producers": {
+    "producer": "Ian Hay",
+    "co_producer": null,
+    "line_producer": null
+   },
+   "studio": null,
+   "phone_number": {
+    "office": "(604) 395-1130",
+    "accounting": null,
+    "emergency": null
+   },
+   "crew": {
+    "director": "",
+    "dop": "",
+    "1st_ad": "",
+    "lm": "W. Robert Millar",
+    "alm": null,
+    "pm": "Hans Dayal",
+    "pc": "Amy Morrison"
+   },
+   "casting": {
+    "bg": null,
+    "principal": null,
+    "stunt": null
+   },
+   "payroll_company": null,
+   "address": {
+    "streetNumber": "4311",
+    "suiteApt": "130",
+    "streetName": "Viking Way",
+    "city": "Richmond",
+    "province": "BC",
+    "postalCode": "V6V 2K9",
+    "country": "Canada",
+    "fullAddress": "4311 Viking Way, Suite 130, Richmond, BC, V6V 2K9, Canada"
+   },
+   "production_company": "Sea To Sky Productions Ulc.",
+   "production_sched": {
+    "start": "2019-09-09 00:00:00",
+    "wrap": "2019-12-17 00:00:00"
+   },
+   "production_year": 2019,
+   "email": {
+    "production": "production.vrs2@gmail.com",
+    "accounting": null
+   },
+   "contract_name": "BCMPA",
+   "union": {
+    "abbr": "UBCP/ACTRA",
+    "rep": null
+   }
+  }
+ }
 }
